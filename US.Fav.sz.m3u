@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="news",Fox News Channel
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
-#EXTINF:-1 tvg-id="FoxWeather.us",FOX Weather (1080p) [Geo-blocked]
-https://amg01542-foxweatherllc-foxweather-rokuus-e6l7m.amagi.tv/playlist/amg01542-foxweatherllc-foxweather-rokuus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
@@ -44,7 +39,11 @@ https://tvpass.org/live/FoxBusiness/hd
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="business",Fox Business Network
 https://tvpass.org/live/FoxBusiness/sd
 
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="news",Fox News Channel
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
+#EXTINF:-1 tvg-id="FoxWeather.us",FOX Weather (1080p) [Geo-blocked]
+https://amg01542-foxweatherllc-foxweather-rokuus-e6l7m.amagi.tv/playlist/amg01542-foxweatherllc-foxweather-rokuus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",NBC Boston News
 https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
