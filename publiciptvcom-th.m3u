@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="One31.th" tvg-name="One 31" tvg-logo="https://i.imgur.com/HXFNbuc.png" group-title="general",One 31
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="general",MCOT HD
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/master.m3u8
+#EXTINF:-1 tvg-id="Mangorn.th" tvg-name="Mangorn" tvg-logo="https://i.imgur.com/Mmtx65h.png" group-title="general",Mangorn
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="general",GMM 25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
+#EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="general",Channel 7
+http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
+#EXTINF:-1 tvg-id="Channel5.th" tvg-name="Channel 5" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="general",Channel 5
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
+#EXTINF:-1 tvg-id="AtTV.th" tvg-name="@TV" tvg-logo="https://files.catbox.moe/6rj9aw.jpg" group-title="",@TV
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://i.imgur.com/MCbCSWv.png" group-title="education",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="NBT11.th" tvg-name="NBT 11" tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="general",NBT 11
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="ZabbChannel.th" tvg-name="Zabb Channel" tvg-logo="https://i.imgur.com/4TMtUjW.png" group-title="",Zabb Channel
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+#EXTINF:-1 tvg-id="WorkpointTV.th" tvg-name="Workpoint TV" tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="",Workpoint TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
+#EXTINF:-1 tvg-id="WhiteChannel.th" tvg-name="White Channel" tvg-logo="https://i.imgur.com/Chx0AV9.png" group-title="",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="UmmTV.th" tvg-name="Umm TV" tvg-logo="https://i.imgur.com/5AV0JpL.png" group-title="",Umm TV
+http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMuslimThailand.th" tvg-name="TV Muslim Thailand" tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="religious",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://i.imgur.com/KyI0s5n.png" group-title="sports",T Sports 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTINF:-1 tvg-id="True4U.th" tvg-name="True4U" tvg-logo="https://i.imgur.com/O6Xre1O.png" group-title="",True4U
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+#EXTINF:-1 tvg-id="TopNews.th" tvg-name="Top News" tvg-logo="https://i.imgur.com/tRFnV9M.png" group-title="news",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN16" tvg-logo="https://i.imgur.com/skpvuKq.png" group-title="",TNN16
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://i.imgur.com/qIorZoy.png" group-title="",Thairath TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-name="Thai Parliament Television" tvg-logo="https://i.imgur.com/Okcnmt6.png" group-title="legislative",Thai Parliament Television
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 tvg-id="ThaiChaiyo.th" tvg-name="Thai Chaiyo" tvg-logo="https://i.imgur.com/uOfb3y1.png" group-title="",Thai Chaiyo
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+#EXTINF:-1 tvg-id="SuwannabhumiChannel.th" tvg-name="Suwannabhumi Channel" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="",Suwannabhumi Channel
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 tvg-id="SBTTV.th" tvg-name="SBT TV" tvg-logo="https://i.imgur.com/rmNDylW.png" group-title="",SBT TV
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 tvg-id="SBBTV.th" tvg-name="SBB TV" tvg-logo="https://i.imgur.com/B1tyK1Z.png" group-title="",SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
+#EXTINF:-1 tvg-id="RamaChannel.th" tvg-name="Rama Channel" tvg-logo="https://i.imgur.com/pnbzE2V.png" group-title="",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 tvg-id="PSISaradee99.th" tvg-name="PSI Saradee 99" tvg-logo="https://i.imgur.com/TmDI6Tz.png" group-title="",PSI Saradee 99
+http://103.120.113.107:80/Saradee/index.m3u8
+#EXTINF:-1 tvg-id="News1.th" tvg-name="News1" tvg-logo="https://i.imgur.com/NNxzCPk.png" group-title="news",News1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-id="NBTWorld.th" tvg-name="NBT World" tvg-logo="https://i.imgur.com/NRO6AtW.png" group-title="general",NBT World
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-name="NBT 2 HD" tvg-logo="https://i.imgur.com/IJh6SHb.png" group-title="general",NBT 2 HD
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/h3TY38F.png" group-title="news",Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+#EXTINF:-1 tvg-id="MONO29.th" tvg-name="MONO 29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="entertainment",MONO 29
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+#EXTINF:-1 tvg-id="MediaTV.th" tvg-name="Media TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/media-tv-th.png" group-title="",Media TV
+http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LanthungTV.th" tvg-name="Lanthung TV" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png" group-title="",Lanthung TV
+https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
+#EXTINF:-1 tvg-id="KasetChannel.th" tvg-name="Kaset Channel" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kaset-th.png" group-title="",Kaset Channel
+http://103.120.113.107:80/Kasat70/video.m3u8
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://i.imgur.com/m4nPR2L.png" group-title="news",JKN 18
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+#EXTINF:-1 tvg-id="GoodIdeaTV.th" tvg-name="Good Idea TV" tvg-logo="https://i.imgur.com/ETgVyTy.png" group-title="entertainment",Good Idea TV
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-name="ETV" tvg-logo="https://i.imgur.com/HTnQGcs.png" group-title="education",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="DopaChannel.th" tvg-name="Dopa Channel" tvg-logo="https://i.imgur.com/Z9vxti4.png" group-title="",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-name="DLTV 9" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="education",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-name="DLTV 8" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="education",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-name="DLTV 7" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="education",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-name="DLTV 6" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="education",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-name="DLTV 5" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="education",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-name="DLTV 4" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="education",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-name="DLTV 3" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="education",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-name="DLTV 2" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="education",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-name="DLTV 15" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="education",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-name="DLTV 14" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="education",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-name="DLTV 13" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="education",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-name="DLTV 12" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="education",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-name="DLTV 11" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="education",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-name="DLTV 10" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="education",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV 1" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="education",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="CoolChannel.th" tvg-name="Cool Channel" tvg-logo="https://i.imgur.com/MU4E0A7.png" group-title="",Cool Channel
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="general",Channel 8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
+#EXTINF:-1 tvg-id="BoonniyomTV.th" tvg-name="Boonniyom TV" tvg-logo="https://i.imgur.com/KvdFCD5.png" group-title="religious",Boonniyom TV
+https://live.x2.co.th/live/bntv.m3u8
+#EXTINF:-1 tvg-id="AmarinTV.th" tvg-name="Amarin TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512" group-title="entertainment",Amarin TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
+#EXTINF:-1 tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="general",3HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+#EXTINF:-1 tvg-id="13SiamThai.th" tvg-name="13 Siam Thai" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="news",13 Siam Thai
+https://live.x2.co.th/live/13livetv-th.m3u8
+#EXTINF:-1 tvg-id="ToplineTV.th" tvg-name="Topline TV" tvg-logo="https://i.imgur.com/OYFI95A.png" group-title="",Topline TV
+rtsp://103.113.47.82:554/toplinesd.sdp
+#EXTINF:-1 tvg-id="Thaiban83.th" tvg-name="Thaiban 83" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thaiban-83.png" group-title="",Thaiban 83
+https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
+#EXTINF:-1 tvg-id="STOUChannel.th" tvg-name="STOU Channel" tvg-logo="https://i.imgur.com/L3T2QZz.png" group-title="",STOU Channel
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SiamChannel.th" tvg-name="Siam Channel" tvg-logo="https://i.imgur.com/QfgNajz.png" group-title="",Siam Channel
+https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
+#EXTINF:-1 tvg-id="SakalaChannel.th" tvg-name="Sakala Channel" tvg-logo="https://i.imgur.com/jh5vWVU.png" group-title="",Sakala Channel
+https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
+#EXTINF:-1 tvg-id="PoliceTV.th" tvg-name="Police TV" tvg-logo="https://i.imgur.com/GhboFGt.png" group-title="",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 tvg-id="PeopleTV.th" tvg-name="People TV" tvg-logo="https://i.imgur.com/Le0s0p0.png" group-title="",People TV
+rtsp://103.113.47.82:554/peopletvsd.sdp
+#EXTINF:-1 tvg-id="LidoChannel.th" tvg-name="Lido Channel" tvg-logo="https://i.imgur.com/dQ8heCZ.png" group-title="",Lido Channel
+https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyTV65.th" tvg-name="Happy TV 65" tvg-logo="https://i.imgur.com/9kb7kPI.png" group-title="",Happy TV 65
+https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
+#EXTINF:-1 tvg-id="EsanTV.th" tvg-name="Esan TV" tvg-logo="https://i.imgur.com/cpNg9Fy.png" group-title="entertainment",Esan TV
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+#EXTINF:-1 tvg-id="DramaChannel.th" tvg-name="Drama Channel" tvg-logo="https://i.imgur.com/ill1Ux6.png" group-title="series",Drama Channel
+https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
