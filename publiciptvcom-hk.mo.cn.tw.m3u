@@ -88,12 +88,22 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="CTiNews.tw" tvg-name="CTi News" tvg-logo="https://i.imgur.com/FZONZEr.png" group-title="news",CTi News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+
+#EXTINF:-1 tvg-id="CTiNews.tw" tvg-name="CTi News" tvg-logo="https://i.imgur.com/FZONZEr.png" group-title="news",CTi News
+https://www.youtube.com/watch?v=vr3XyVCR4T0
+
 #EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-name="CGNTV Chinese" tvg-logo="https://i.imgur.com/bPoPAbR.png" group-title="religious",CGNTV Chinese
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-name="Beautiful Life TV" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="religious",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-name="TVBS News" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="news",TVBS HD
+https://www.youtube.com/watch?v=o_-hSMgpAzs
+
 #EXTINF:-1 tvg-id="TVBSNews.tw" tvg-name="TVBS News" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="news",TVBS News
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+
 #EXTINF:-1 tvg-id="TTV.tw" tvg-name="TTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/512px-TTV_2nd_logo.svg.png" group-title="",TTV
 http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-name="Taiwan Indigenous TV" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="general",Taiwan Indigenous TV
