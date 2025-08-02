@@ -3,11 +3,10 @@
 #  https://dnschecker.org/public-dns/cn
 
 #  CHINA DNS
-182.254.116.116
+223.6.6.150
 
 # Hong Kong DNS
-210.5.56.145
-210.5.56.146
+202.155.212.82
 
 TiviMate - http://bit.ly/3S6j7sa
 

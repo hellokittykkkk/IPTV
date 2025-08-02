@@ -1,0 +1,179 @@
+#EXTM3U
+
+#EXTINF:-1 ,CCTV1-综合
+https://stream1.freetv.fun/cctv1--wj-1.ctv
+
+#EXTINF:-1 ,CCTV2-财经
+https://stream1.freetv.fun/cctv2--wj-1.ctv
+
+#EXTINF:-1 ,CCTV3-综艺
+https://stream1.freetv.fun/cctv3--wj-1.ctv
+
+#EXTINF:-1 ,CCTV4-国际
+http://122.238.172.63:3333/bst/cctv4hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV5-体育
+https://stream1.freetv.fun/54cad3d62b58a3d72861d5ab56ec74fe0b6dd67196cd3fd90d9252e27a400660.ctv
+
+#EXTINF:-1 ,CCTV-5+
+https://stream1.freetv.fun/cctv5-plus--wj-1.ctv
+
+#EXTINF:-1 ,CCTV6-电影
+https://stream1.freetv.fun/cctv6--wj-1.ctv
+
+#EXTINF:-1 ,CCTV7-军农
+http://122.238.172.63:3333/bst/cctv7hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV8-电视剧
+https://stream1.freetv.fun/cctv8--wj-1.ctv
+
+#EXTINF:-1 ,CCTV9-纪录
+https://stream1.freetv.fun/cctv9--wj-1.ctv
+
+#EXTINF:-1 ,CCTV10-科教
+https://stream1.freetv.fun/cctv10--wj-1.ctv
+
+#EXTINF:-1 ,CCTV11-戏曲
+https://stream1.freetv.fun/cctv11--wj-1.ctv
+
+#EXTINF:-1 ,CCTV12-社会与法
+http://122.238.172.63:3333/bst/cctv12hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV13-新闻
+https://stream1.freetv.fun/cctv13--wj-1.ctv
+
+#EXTINF:-1 ,CCTV14-少儿
+http://122.238.172.63:3333/bst/cctvsehd@4000000.m3u8
+
+#EXTINF:-1 ,CCTV15-音乐
+http://122.238.172.63:3333/bst/cctvyyhd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV-16
+http://122.238.172.63:3333/bst/cctv16hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV-16-4K
+http://122.238.172.63:3333/bst/cctv16hd4k@15000000.m3u8
+
+#EXTINF:-1 ,CCTV-17
+http://122.238.172.63:3333/bst/cctv17hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV-4k
+http://122.238.172.63:3333/bst/cctv4k@15000000.m3u8
+
+
+#EXTINF:-1 ,CETV1 中学生 国际汉语
+http://122.238.172.63:3333/gptv/G_CETV-1-HQ.m3u8
+#EXTINF:-1 ,CETV2 国际旅游
+http://122.238.172.63:3333/gptv/G_CETV-2.m3u8
+#EXTINF:-1 ,CETV3 国际教育
+http://122.238.172.63:3333/gptv/G_CETV-3.m3u8
+#EXTINF:-1 ,CETV4 国际健康
+http://122.238.172.63:3333/gptv/G_CETV-4.m3u8
+
+#EXTINF:-1 ,CETV1 中学生
+#https://stream1.freetv.fun/c227c8fa905eff3bcdba4bd46db0f0ae7a0ebaa870d1e8365647d52973b6c0f4.ctv
+#EXTINF:-1 ,老故事
+#https://stream1.freetv.fun/cf45941d07f2364679b460feb7fbf9b51d7b2830957614c2345d89396529be76.ctv
+#EXTINF:-1 ,发现之旅
+#https://stream1.freetv.fun/35c27d60f1422fd5117928620857a041a9e5f4b7a888e4533eee333b32dffeff.ctv
+
+
+#EXTINF:-1 ,CGTN 
+http://122.238.172.63:3333/bst/cctvnews@2500000.m3u8
+#EXTINF:-1 ,CGTN Documentary HD 纪录
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 ,CGTN Documentary 纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+
+
+#EXTINF:-1 ,海峡卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+#EXTINF:-1 ,香港卫视
+#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,北京卫视
+http://xxwx.yoesun.com/xxw/北京网.php?id=bjws
+#EXTINF:-1 ,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 ,北京卫视
+https://smart.pendy.dpdns.org/Smart.php?id=beijing
+#EXTINF:-1 ,广西卫视
+https://smart.pendy.dpdns.org/Smart.php?id=guangxi
+
+#EXTINF:-1 ,SANSHA-HQ 三沙卫视
+http://122.238.172.63:3333/gptv/G_SANSHA-HQ.m3u8
+#EXTINF:-1 ,DONGNAN-HQ 东南卫视
+http://122.238.172.63:3333/gptv/G_DONGNAN-HQ.m3u8
+#EXTINF:-1 ,DONGFANG-HQ 东方卫视
+http://122.238.172.63:3333/gptv/G_DONGFANG-HQ.m3u8
+#EXTINF:-1 ,YUNNAN-HQ 云南卫视
+http://122.238.172.63:3333/gptv/G_YUNNAN-HQ.m3u8
+#EXTINF:-1 ,BINGTUAN 兵团卫视
+http://122.238.172.63:3333/gptv/G_BINGTUAN.m3u8
+#EXTINF:-1 ,NONGLIN 农林卫视
+http://122.238.172.63:3333/gptv/G_NONGLIN.m3u8
+#EXTINF:-1 ,BEIJING-4K 北京卫视
+http://122.238.172.63:3333/gptv/G_BEIJING-4K.m3u8
+#EXTINF:-1 ,BEIJING-HQ 北京卫视
+http://122.238.172.63:3333/gptv/G_BEIJING-HQ.m3u8
+#EXTINF:-1 ,JILIN-HQ 吉林卫视
+http://122.238.172.63:3333/gptv/G_JILIN-HQ.m3u8
+#EXTINF:-1 ,SICHUAN-HQ 四川卫视
+http://122.238.172.63:3333/gptv/G_SICHUAN-HQ.m3u8
+#EXTINF:-1 ,TIANJIN-HQ 天津卫视
+http://122.238.172.63:3333/gptv/G_TIANJIN-HQ.m3u8
+#EXTINF:-1 ,NINGXIA 宁夏卫视
+http://122.238.172.63:3333/gptv/G_NINGXIA.m3u8
+#EXTINF:-1 ,ANDUO 安多卫视
+http://122.238.172.63:3333/gptv/G_ANDUO.m3u8
+#EXTINF:-1 ,ANHUI-HQ 安徽卫视
+http://122.238.172.63:3333/gptv/G_ANHUI-HQ.m3u8
+#EXTINF:-1 ,SHANDONG-HQ 山东卫视
+http://122.238.172.63:3333/gptv/G_SHANDONG-HQ.m3u8
+#EXTINF:-1 ,GUANGDONG-HQ 广东卫视
+http://122.238.172.63:3333/gptv/G_GUANGDONG-HQ.m3u8
+#EXTINF:-1 ,GUANGXI-HQ 广西卫视
+http://122.238.172.63:3333/gptv/G_GUANGXI-HQ.m3u8
+#EXTINF:-1 ,KANGBA 康巴卫视
+http://122.238.172.63:3333/gptv/G_KANGBA.m3u8
+#EXTINF:-1 ,YANBIAN 延边卫视
+http://122.238.172.63:3333/gptv/G_YANBIAN.m3u8
+#EXTINF:-1 ,XINJIANG 新疆卫视
+http://122.238.172.63:3333/gptv/G_XINJIANG.m3u8
+#EXTINF:-1 ,JIANGSU-HQ 江苏卫视
+http://122.238.172.63:3333/gptv/G_JIANGSU-HQ.m3u8
+#EXTINF:-1 ,JIANGXI-HQ 江西卫视
+http://122.238.172.63:3333/gptv/G_JIANGXI-HQ.m3u8
+#EXTINF:-1 ,HEBEI-HQ 河北卫视
+http://122.238.172.63:3333/gptv/G_HEBEI-HQ.m3u8
+#EXTINF:-1 ,HENAN-HQ 河南卫视
+http://122.238.172.63:3333/gptv/G_HENAN-HQ.m3u8
+#EXTINF:-1 ,ZHEJIANG-HQ 浙江卫视
+http://122.238.172.63:3333/gptv/G_ZHEJIANG-HQ.m3u8
+#EXTINF:-1 ,HAINAN-HQ 海南卫视
+http://122.238.172.63:3333/gptv/G_HAINAN-HQ.m3u8
+#EXTINF:-1 ,SHENZHEN-HQ 深圳卫视
+http://122.238.172.63:3333/gptv/G_SHENZHEN-HQ.m3u8
+#EXTINF:-1 ,HUBEI-HQ 湖北卫视
+http://122.238.172.63:3333/gptv/G_HUBEI-HQ.m3u8
+#EXTINF:-1 ,HUNAN-HQ 湖南卫视
+http://122.238.172.63:3333/gptv/G_HUNAN-HQ.m3u8
+#EXTINF:-1 ,GANSU-HQ 甘肃卫视
+http://122.238.172.63:3333/gptv/G_GANSU-HQ.m3u8
+#EXTINF:-1 ,XIZANG 西藏卫视
+http://122.238.172.63:3333/gptv/G_XIZANG.m3u8
+#EXTINF:-1 ,GUIZHOU-HQ 贵州卫视
+http://122.238.172.63:3333/gptv/G_GUIZHOU-HQ.m3u8
+#EXTINF:-1 ,LIAONING-HQ 辽宁卫视
+http://122.238.172.63:3333/gptv/G_LIAONING-HQ.m3u8
+#EXTINF:-1 ,CHONGQING-HQ 重庆卫视
+http://122.238.172.63:3333/gptv/G_CHONGQING-HQ.m3u8
+#EXTINF:-1 ,SHANXI-HQ 陕西卫视
+http://122.238.172.63:3333/gptv/G_SHANXI-HQ.m3u8
+#EXTINF:-1 ,HEILONGJIANG-HQ 黑龙江卫视
+http://122.238.172.63:3333/gptv/G_HEILONGJIANG-HQ.m3u8
+#EXTINF:-1 ,NEIMENGGU 内蒙古卫视
+http://122.238.172.63:3333/gptv/G_NEIMENGGU.m3u8
