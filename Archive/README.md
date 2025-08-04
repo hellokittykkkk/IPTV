@@ -25,3 +25,7 @@ https://tinyurl.com/2twcwcw7
 
 https://raw.githubusercontent.com/hellokittykkkk/IPTV/refs/heads/main/cn.playlist.cn.hk.mo.tw.m3u
 https://tinyurl.com/muz8dh8a
+
+https://raw.githubusercontent.com/hellokittykkkk/IPTV/refs/heads/main/cn2.playlist.cn.hk.mo.tw.m3u
+https://tinyurl.com/3xtkvk48
+
