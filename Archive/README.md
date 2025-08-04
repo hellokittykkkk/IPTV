@@ -19,3 +19,7 @@ https://tinyurl.com/yt4zef6p
 
 https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn.m3u
 https://tinyurl.com/mrxvandt
+
+
+https://raw.githubusercontent.com/hellokittykkkk/IPTV/refs/heads/main/cn.cctv.gitee.m3u
+https://tinyurl.com/2twcwcw7
