@@ -10,10 +10,10 @@ https://stream1.freetv.fun/cctv2--wj-1.ctv
 https://stream1.freetv.fun/cctv3--wj-1.ctv
 
 #EXTINF:-1 ,CCTV4-国际
-http://122.238.172.63:3333/bst/cctv4hd4m@4000000.m3u8
+http://112.64.220.29:8001/bst/cctv4hd4m@4000000.m3u8
 
 #EXTINF:-1 ,CCTV5-体育
-https://stream1.freetv.fun/54cad3d62b58a3d72861d5ab56ec74fe0b6dd67196cd3fd90d9252e27a400660.ctv
+https://stream1.freetv.fun/cctv5--wj-1.ctv
 
 #EXTINF:-1 ,CCTV-5+
 https://stream1.freetv.fun/cctv5-plus--wj-1.ctv
@@ -22,7 +22,7 @@ https://stream1.freetv.fun/cctv5-plus--wj-1.ctv
 https://stream1.freetv.fun/cctv6--wj-1.ctv
 
 #EXTINF:-1 ,CCTV7-军农
-http://122.238.172.63:3333/bst/cctv7hd4m@4000000.m3u8
+http://112.64.220.29:8001/bst/cctv7hd4m@4000000.m3u8
 
 #EXTINF:-1 ,CCTV8-电视剧
 https://stream1.freetv.fun/cctv8--wj-1.ctv
@@ -37,27 +37,27 @@ https://stream1.freetv.fun/cctv10--wj-1.ctv
 https://stream1.freetv.fun/cctv11--wj-1.ctv
 
 #EXTINF:-1 ,CCTV12-社会与法
-http://122.238.172.63:3333/bst/cctv12hd4m@4000000.m3u8
+https://stream1.freetv.fun/cctv12-54.ctv
 
 #EXTINF:-1 ,CCTV13-新闻
 https://stream1.freetv.fun/cctv13--wj-1.ctv
 
 #EXTINF:-1 ,CCTV14-少儿
-http://122.238.172.63:3333/bst/cctvsehd@4000000.m3u8
+https://stream1.freetv.fun/cctv14-85.ctv
 
 #EXTINF:-1 ,CCTV15-音乐
-http://122.238.172.63:3333/bst/cctvyyhd4m@4000000.m3u8
+https://stream1.freetv.fun/cctv15-38.ctv
 
 #EXTINF:-1 ,CCTV-16
-http://122.238.172.63:3333/bst/cctv16hd4m@4000000.m3u8
+https://stream1.freetv.fun/cctv16-49.m3u8
 
 #EXTINF:-1 ,CCTV-16-4K
-http://122.238.172.63:3333/bst/cctv16hd4k@15000000.m3u8
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
 
 #EXTINF:-1 ,CCTV-17
-http://122.238.172.63:3333/bst/cctv17hd4m@4000000.m3u8
+https://stream1.freetv.fun/cctv17-58.m3u8
 
 #EXTINF:-1 ,CCTV-4k
-http://122.238.172.63:3333/bst/cctv4k@15000000.m3u8
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/index.m3u8
 
 
