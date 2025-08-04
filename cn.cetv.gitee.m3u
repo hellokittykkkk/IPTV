@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 ,CECTV1 国际汉语
+http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+#EXTINF:-1 ,CECTV2 国际旅游
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 ,CECTV3 国际教育
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 ,CECTV4 国际健康
+http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+
+#EXTINF:-1 ,CETV1 中学生
+#https://stream1.freetv.fun/c227c8fa905eff3bcdba4bd46db0f0ae7a0ebaa870d1e8365647d52973b6c0f4.ctv
+#EXTINF:-1 ,老故事
+#https://stream1.freetv.fun/cf45941d07f2364679b460feb7fbf9b51d7b2830957614c2345d89396529be76.ctv
+#EXTINF:-1 ,发现之旅
+#https://stream1.freetv.fun/35c27d60f1422fd5117928620857a041a9e5f4b7a888e4533eee333b32dffeff.ctv
+
+
+#EXTINF:-1 ,CHC家庭影院
+http://223.82.161.157:899/hls/51/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://223.82.161.157:899/hls/53/index.m3u8
+#EXTINF:-1 ,CHC影迷电影
+http://223.82.161.157:899/hls/54/index.m3u8

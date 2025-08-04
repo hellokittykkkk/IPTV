@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1 ,SANSHA-HQ 三沙卫视
+http://27.215.67.69:51006/gptv/G_SANSHA-HQ.m3u8
+#http://122.238.172.63:3333/bst/ssws2d5m@2500000.m3u8
+#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
+#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
+
+#EXTINF:-1 ,DONGNAN 东南卫视
+#http://27.215.67.69:51006/gptv/gptv/G_DONGNAN-HQ.m3u8
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
+
+#EXTINF:-1 ,YUNNAN-HQ 云南卫视
+http://27.215.67.69:51006/gptv/G_YUNNAN-HQ.m3u8
+#http://60.184.42.120:8889/udp/233.50.201.46:5140
+
+#EXTINF:-1 ,BINGTUAN 兵团卫视
+http://27.215.67.69:51006/gptv/G_BINGTUAN.m3u8
+#http://60.184.42.120:8889/udp/233.50.201.72:5140
+
+#EXTINF:-1 ,NONGLIN 农林卫视
+#http://122.238.172.63:3333/gptv/G_NONGLIN.m3u8
+http://27.215.67.69:51006/gptv/G_NONGLIN.m3u8
+
+#EXTINF:-1 ,BEIJING-4K 北京卫视
+http://27.215.67.69:51006/gptv/G_BEIJING-4K.m3u8
+
+#EXTINF:-1 ,BEIJING-HQ 北京卫视
+http://27.215.67.69:51006/gptv/G_BEIJING-HQ.m3u8
+
+#EXTINF:-1 ,JILIN-HQ 吉林卫视
+http://122.238.172.63:3333/gptv/G_JILIN-HQ.m3u8
+#EXTINF:-1 ,SICHUAN-HQ 四川卫视
+http://27.215.67.69:51006/gptv/gptv/G_SICHUAN-HQ.m3u8
+#EXTINF:-1 ,TIANJIN-HQ 天津卫视
+http://27.215.67.69:51006/gptv/gptv/G_TIANJIN-HQ.m3u8
+#EXTINF:-1 ,NINGXIA 宁夏卫视
+http://27.215.67.69:51006/gptv/gptv/G_NINGXIA.m3u8
+#EXTINF:-1 ,ANDUO 安多卫视
+http://27.215.67.69:51006/gptv/gptv/G_ANDUO.m3u8
+#EXTINF:-1 ,ANHUI-HQ 安徽卫视
+http://27.215.67.69:51006/gptv/gptv/G_ANHUI-HQ.m3u8
+#EXTINF:-1 ,SHANDONG-HQ 山东卫视
+http://27.215.67.69:51006/gptv/gptv/G_SHANDONG-HQ.m3u8
+#EXTINF:-1 ,GUANGDONG-HQ 广东卫视
+http://27.215.67.69:51006/gptv/gptv/G_GUANGDONG-HQ.m3u8
+#EXTINF:-1 ,GUANGXI-HQ 广西卫视
+http://27.215.67.69:51006/gptv/gptv/G_GUANGXI-HQ.m3u8
+#EXTINF:-1 ,KANGBA 康巴卫视
+http://27.215.67.69:51006/gptv/gptv/G_KANGBA.m3u8
+#EXTINF:-1 ,YANBIAN 延边卫视
+http://27.215.67.69:51006/gptv/gptv/G_YANBIAN.m3u8
+#EXTINF:-1 ,XINJIANG 新疆卫视
+http://27.215.67.69:51006/gptv/gptv/G_XINJIANG.m3u8
+#EXTINF:-1 ,JIANGSU-HQ 江苏卫视
+http://27.215.67.69:51006/gptv/gptv/G_JIANGSU-HQ.m3u8
+#EXTINF:-1 ,JIANGXI-HQ 江西卫视
+http://27.215.67.69:51006/gptv/gptv/G_JIANGXI-HQ.m3u8
+#EXTINF:-1 ,HEBEI-HQ 河北卫视
+http://27.215.67.69:51006/gptv/gptv/G_HEBEI-HQ.m3u8
+#EXTINF:-1 ,HENAN-HQ 河南卫视
+http://27.215.67.69:51006/gptv/gptv/G_HENAN-HQ.m3u8
+#EXTINF:-1 ,ZHEJIANG-HQ 浙江卫视
+http://27.215.67.69:51006/gptv/gptv/G_ZHEJIANG-HQ.m3u8
+#EXTINF:-1 ,HAINAN-HQ 海南卫视
+http://27.215.67.69:51006/gptv/gptv/G_HAINAN-HQ.m3u8
+#EXTINF:-1 ,SHENZHEN-HQ 深圳卫视
+http://27.215.67.69:51006/gptv/gptv/G_SHENZHEN-HQ.m3u8
+#EXTINF:-1 ,HUBEI-HQ 湖北卫视
+http://27.215.67.69:51006/gptv/gptv/G_HUBEI-HQ.m3u8
+#EXTINF:-1 ,HUNAN-HQ 湖南卫视
+http://27.215.67.69:51006/gptv/gptv/G_HUNAN-HQ.m3u8
+#EXTINF:-1 ,GANSU-HQ 甘肃卫视
+http://27.215.67.69:51006/gptv/gptv/G_GANSU-HQ.m3u8
+#EXTINF:-1 ,XIZANG 西藏卫视
+http://27.215.67.69:51006/gptv/gptv/G_XIZANG.m3u8
+#EXTINF:-1 ,GUIZHOU-HQ 贵州卫视
+http://27.215.67.69:51006/gptv/gptv/G_GUIZHOU-HQ.m3u8
+#EXTINF:-1 ,LIAONING-HQ 辽宁卫视
+http://27.215.67.69:51006/gptv/gptv/G_LIAONING-HQ.m3u8
+#EXTINF:-1 ,CHONGQING-HQ 重庆卫视
+http://27.215.67.69:51006/gptv/gptv/G_CHONGQING-HQ.m3u8
+#EXTINF:-1 ,SHANXI-HQ 陕西卫视
+http://27.215.67.69:51006/gptv/gptv/G_SHANXI-HQ.m3u8
+#EXTINF:-1 ,HEILONGJIANG-HQ 黑龙江卫视
+http://27.215.67.69:51006/gptv/gptv/G_HEILONGJIANG-HQ.m3u8
+#EXTINF:-1 ,NEIMENGGU 内蒙古卫视
+http://27.215.67.69:51006/gptv/gptv/G_NEIMENGGU.m3u8
