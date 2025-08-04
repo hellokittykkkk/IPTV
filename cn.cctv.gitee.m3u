@@ -46,18 +46,18 @@ https://stream1.freetv.fun/cctv13--wj-1.ctv
 https://stream1.freetv.fun/cctv14-85.ctv
 
 #EXTINF:-1 ,CCTV15-音乐
-https://stream1.freetv.fun/cctv15-38.ctv
+http://112.64.220.29:8001/bst/cctvyyhd4m@4000000.m3u8
 
 #EXTINF:-1 ,CCTV-16
-https://stream1.freetv.fun/cctv16-49.m3u8
+http://112.64.220.29:8001/bst/cctv16hd4m@4000000.m3u8
 
 #EXTINF:-1 ,CCTV-16-4K
-http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
+http://112.64.220.29:8001/bst/cctv16hd4k@15000000.m3u8
 
 #EXTINF:-1 ,CCTV-17
-https://stream1.freetv.fun/cctv17-58.m3u8
+http://112.64.220.29:8001/bst/cctv17hd4m@4000000.m3u8
 
 #EXTINF:-1 ,CCTV-4k
-http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/index.m3u8
+http://112.64.220.29:8001/bst/cctv4k@15000000.m3u8
 
 
