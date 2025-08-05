@@ -16,6 +16,21 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #
 #
+#EXTINF:-1 ,CECTV1 国际汉语
+http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+#EXTINF:-1 ,CECTV2 国际旅游
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 ,CECTV3 国际教育
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 ,CECTV4 国际健康
+http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+
+#EXTINF:-1 ,CHC家庭影院
+http://223.82.161.157:899/hls/51/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://223.82.161.157:899/hls/53/index.m3u8
+#EXTINF:-1 ,CHC影迷电影
+http://223.82.161.157:899/hls/54/index.m3u8
 
 #
 #
