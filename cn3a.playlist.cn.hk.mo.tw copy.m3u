@@ -59,107 +59,107 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 
-#EXTINF:18, TAIWANPLUS 
+#EXTINF:18, Hong Kong Macao and Taiwan Channel (港澳台频道) TAIWANPLUS 
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:60, TVBJ1 
+#EXTINF:60, Hong Kong Macao and Taiwan Channel (港澳台频道) TVBJ1 
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:0, TVBPLUS 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) TVBPLUS 
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:0, TVBS新闻台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) TVBS新闻台 
 http://api.mytv666.top/api/hk.php?id=6366366232313066623564653734326233383533656239343137313864626639267469643d77696e74763132332669643d3532
-#EXTINF:0, TVBS欢乐 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) TVBS欢乐 
 http://61.216.11.93:49981/stream/channelid/1607444205?profile=webtv-h264-aac-mpegts
-#EXTINF:72, TVB亚洲剧台 
+#EXTINF:72, Hong Kong Macao and Taiwan Channel (港澳台频道) TVB亚洲剧台 
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:72, TVB娱乐新闻台 
+#EXTINF:72, Hong Kong Macao and Taiwan Channel (港澳台频道) TVB娱乐新闻台 
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:100, TVB娱乐新闻台 
+#EXTINF:100, Hong Kong Macao and Taiwan Channel (港澳台频道) TVB娱乐新闻台 
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:99, TVB娱乐新闻台 
+#EXTINF:99, Hong Kong Macao and Taiwan Channel (港澳台频道) TVB娱乐新闻台 
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-#EXTINF:99, TVB无线新闻台 
+#EXTINF:99, Hong Kong Macao and Taiwan Channel (港澳台频道) TVB无线新闻台 
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:0, TVB无线新闻台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) TVB无线新闻台 
 http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
-#EXTINF:72, TVB星河 
+#EXTINF:72, Hong Kong Macao and Taiwan Channel (港澳台频道) TVB星河 
 http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-#EXTINF:99, TVB星河 
+#EXTINF:99, Hong Kong Macao and Taiwan Channel (港澳台频道) TVB星河 
 http://php.jdshipin.com/smt.php?id=Xinhe
-#EXTINF:102, TVB翡翠台 
+#EXTINF:102, Hong Kong Macao and Taiwan Channel (港澳台频道) TVB翡翠台 
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:100, VIUTV 
+#EXTINF:100, Hong Kong Macao and Taiwan Channel (港澳台频道) VIUTV 
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:4, VIUTV 
+#EXTINF:4, Hong Kong Macao and Taiwan Channel (港澳台频道) VIUTV 
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:100, VIUTV 
+#EXTINF:100, Hong Kong Macao and Taiwan Channel (港澳台频道) VIUTV 
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-#EXTINF:0, 东森新闻 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 东森新闻 
 #http://api.mytv666.top/api/hk.php?id=6666323035643663343766316231356134636232653135646535333232336166267469643d77696e74763132332669643d3434
-#EXTINF:39, 东森综合 
+#EXTINF:39, Hong Kong Macao and Taiwan Channel (港澳台频道) 东森综合 
 https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-#EXTINF:0, 东森财经新闻台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 东森财经新闻台 
 http://api.mytv666.top/api/hk.php?id=3366353564656564303034623865343935613737356162393665633732633138267469643d77696e74763132332669643d3435
-#EXTINF:0, 东森超视 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 东森超视 
 http://61.216.11.93:49981/stream/channelid/1026178460?profile=webtv-h264-aac-mpegts
-#EXTINF:0, 中视新闻 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 中视新闻 
 http://api.mytv666.top/api/hk.php?id=6138663230386338366361363064623465353961333963373563343466316639267469643d77696e74763132332669643d3530
-#EXTINF:0, 八大第一台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 八大第一台 
 http://61.216.11.93:49981/stream/channelid/2021000694?profile=webtv-h264-aac-mpegts
-#EXTINF:0, 八大综合台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 八大综合台 
 http://61.216.11.93:49981/stream/channelid/1339557876?profile=webtv-h264-aac-mpegts
-#EXTINF:0, 凤凰卫视中文台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 凤凰卫视中文台 
 http://j.s.bkpcp.top/js/fhzw
-#EXTINF:60, 凤凰卫视中文台 
+#EXTINF:60, Hong Kong Macao and Taiwan Channel (港澳台频道) 凤凰卫视中文台 
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:0, 凤凰卫视资讯台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 凤凰卫视资讯台 
 http://j.s.bkpcp.top/js/fhzx
-#EXTINF:60, 凤凰卫视资讯台 
+#EXTINF:60, Hong Kong Macao and Taiwan Channel (港澳台频道) 凤凰卫视资讯台 
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:0, 凤凰卫视香港台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 凤凰卫视香港台 
 http://j.s.bkpcp.top/js/fhxg
-#EXTINF:101, 千禧经典 
+#EXTINF:101, Hong Kong Macao and Taiwan Channel (港澳台频道) 千禧经典 
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:100, 千禧经典 
+#EXTINF:100, Hong Kong Macao and Taiwan Channel (港澳台频道) 千禧经典 
 http://php.jdshipin.com/smt.php?id=Tvbclassic
-#EXTINF:100, 千禧经典 
+#EXTINF:100, Hong Kong Macao and Taiwan Channel (港澳台频道) 千禧经典 
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:100, 华丽翡翠台 
+#EXTINF:100, Hong Kong Macao and Taiwan Channel (港澳台频道) 华丽翡翠台 
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-#EXTINF:0, 华丽翡翠台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 华丽翡翠台 
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:0, 华视新闻 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 华视新闻 
 http://api.mytv666.top/api/hk.php?id=6261363335363330383638353961326461623131616231386263356433316265267469643d77696e74763132332669643d3531
-#EXTINF:0, 台视新闻 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 台视新闻 
 http://api.mytv666.top/api/hk.php?id=3734336535623139656265303339663361646637333131663633363331653863267469643d77696e74763132332669643d3439
-#EXTINF:101, 天映经典 
+#EXTINF:101, Hong Kong Macao and Taiwan Channel (港澳台频道) 天映经典 
 http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:100, 天映频道 
+#EXTINF:100, Hong Kong Macao and Taiwan Channel (港澳台频道) 天映频道 
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:0, 好莱坞电影 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 好莱坞电影 
 http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
-#EXTINF:0, 寰宇新闻 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 寰宇新闻 
 http://api.mytv666.top/api/hk.php?id=3564653032633337613964616638353465646263396438356462316234373238267469643d77696e74763132332669643d3437
-#EXTINF:0, 寰宇新闻台湾台 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 寰宇新闻台湾台 
 http://api.mytv666.top/api/hk.php?id=3264386336616633313438633165356234343633333835343932323730646666267469643d77696e74763132332669643d3438
-#EXTINF:0, 年代MUCH 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 年代MUCH 
 http://61.216.11.93:49981/stream/channelid/644357774?profile=webtv-h264-aac-mpegts
-#EXTINF:0, 年代新闻 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 年代新闻 
 http://api.mytv666.top/api/hk.php?id=3666643635353637663833346366363536386431333931323061356464376332267469643d77696e74763132332669643d3436
-#EXTINF:100, 明珠台 
+#EXTINF:100, Hong Kong Macao and Taiwan Channel (港澳台频道) 明珠台 
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:100, 明珠台 
+#EXTINF:100, Hong Kong Macao and Taiwan Channel (港澳台频道) 明珠台 
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:0, 民视 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 民视 
 http://61.216.11.93:49981/stream/channelid/1736257299?profile=webtv-h264-aac-mpegts
-#EXTINF:30, 番薯电视台 
+#EXTINF:30, Hong Kong Macao and Taiwan Channel (港澳台频道) 番薯电视台 
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:0, 緯來綜合 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 緯來綜合 
 http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
-#EXTINF:0, 緯來電影 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) 緯來電影 
 http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
-#EXTINF:39, 美亞電影台 
+#EXTINF:39, Hong Kong Macao and Taiwan Channel (港澳台频道) 美亞電影台 
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:40, 美亞電影台 
+#EXTINF:40, Hong Kong Macao and Taiwan Channel (港澳台频道) 美亞電影台 
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 #EXTINF:18,Channel 5 HD
@@ -175,7 +175,7 @@ http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
 #EXTINF:18,EuroSport 2
 http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
 
-#EXTINF:0, MOMOTV 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) MOMOTV 
 rtmp://f13h.mine.nu/sat/tv761
 
 #EXTINF:18,8TV
@@ -193,9 +193,9 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:50,Bloomberg TV Asia Live Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-#EXTINF:18, CBNNEWS 
+#EXTINF:18, Hong Kong Macao and Taiwan Channel (港澳台频道) CBNNEWS 
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:0, CINEMAX 
+#EXTINF:0, Hong Kong Macao and Taiwan Channel (港澳台频道) CINEMAX 
 http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
 
 #EXTINF:24,KLT-靖天國際台
@@ -267,175 +267,3 @@ http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 #EXTINF:18,黃金翡翠台
 http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-
-#EXTINF:-1 ,CCTV1-综合
-https://stream1.freetv.fun/cctv1--wj-1.ctv
-
-#EXTINF:-1 ,CCTV2-财经
-https://stream1.freetv.fun/cctv2--wj-1.ctv
-
-#EXTINF:-1 ,CCTV3-综艺
-https://stream1.freetv.fun/cctv3--wj-1.ctv
-
-#EXTINF:-1 ,CCTV4-国际
-http://122.238.172.63:3333/bst/cctv4hd4m@4000000.m3u8
-
-#EXTINF:-1 ,CCTV5-体育
-https://stream1.freetv.fun/54cad3d62b58a3d72861d5ab56ec74fe0b6dd67196cd3fd90d9252e27a400660.ctv
-
-#EXTINF:-1 ,CCTV-5+
-https://stream1.freetv.fun/cctv5-plus--wj-1.ctv
-
-#EXTINF:-1 ,CCTV6-电影
-https://stream1.freetv.fun/cctv6--wj-1.ctv
-
-#EXTINF:-1 ,CCTV7-军农
-http://122.238.172.63:3333/bst/cctv7hd4m@4000000.m3u8
-
-#EXTINF:-1 ,CCTV8-电视剧
-https://stream1.freetv.fun/cctv8--wj-1.ctv
-
-#EXTINF:-1 ,CCTV9-纪录
-https://stream1.freetv.fun/cctv9--wj-1.ctv
-
-#EXTINF:-1 ,CCTV10-科教
-https://stream1.freetv.fun/cctv10--wj-1.ctv
-
-#EXTINF:-1 ,CCTV11-戏曲
-https://stream1.freetv.fun/cctv11--wj-1.ctv
-
-#EXTINF:-1 ,CCTV12-社会与法
-http://122.238.172.63:3333/bst/cctv12hd4m@4000000.m3u8
-
-#EXTINF:-1 ,CCTV13-新闻
-https://stream1.freetv.fun/cctv13--wj-1.ctv
-
-#EXTINF:-1 ,CCTV14-少儿
-http://122.238.172.63:3333/bst/cctvsehd@4000000.m3u8
-
-#EXTINF:-1 ,CCTV15-音乐
-http://122.238.172.63:3333/bst/cctvyyhd4m@4000000.m3u8
-
-#EXTINF:-1 ,CCTV-16
-http://122.238.172.63:3333/bst/cctv16hd4m@4000000.m3u8
-
-#EXTINF:-1 ,CCTV-16-4K
-http://122.238.172.63:3333/bst/cctv16hd4k@15000000.m3u8
-
-#EXTINF:-1 ,CCTV-17
-http://122.238.172.63:3333/bst/cctv17hd4m@4000000.m3u8
-
-#EXTINF:-1 ,CCTV-4k
-http://122.238.172.63:3333/bst/cctv4k@15000000.m3u8
-
-
-#EXTINF:-1 ,CETV1 中学生 国际汉语
-http://122.238.172.63:3333/gptv/G_CETV-1-HQ.m3u8
-#EXTINF:-1 ,CETV2 国际旅游
-http://122.238.172.63:3333/gptv/G_CETV-2.m3u8
-#EXTINF:-1 ,CETV3 国际教育
-http://122.238.172.63:3333/gptv/G_CETV-3.m3u8
-#EXTINF:-1 ,CETV4 国际健康
-http://122.238.172.63:3333/gptv/G_CETV-4.m3u8
-
-#EXTINF:-1 ,CGTN 
-http://122.238.172.63:3333/bst/cctvnews@2500000.m3u8
-#EXTINF:-1 ,CGTN Documentary HD 纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 ,CGTN Documentary 纪录
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-
-
-#EXTINF:-1 ,海峡卫视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
-#EXTINF:-1 ,香港卫视
-#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,北京卫视
-http://xxwx.yoesun.com/xxw/北京网.php?id=bjws
-#EXTINF:-1 ,浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 ,北京卫视
-https://smart.pendy.dpdns.org/Smart.php?id=beijing
-#EXTINF:-1 ,广西卫视
-https://smart.pendy.dpdns.org/Smart.php?id=guangxi
-
-#EXTINF:-1 ,SANSHA-HQ 三沙卫视
-http://122.238.172.63:3333/gptv/G_SANSHA-HQ.m3u8
-#EXTINF:-1 ,DONGNAN-HQ 东南卫视
-http://122.238.172.63:3333/gptv/G_DONGNAN-HQ.m3u8
-#EXTINF:-1 ,DONGFANG-HQ 东方卫视
-http://122.238.172.63:3333/gptv/G_DONGFANG-HQ.m3u8
-#EXTINF:-1 ,YUNNAN-HQ 云南卫视
-http://122.238.172.63:3333/gptv/G_YUNNAN-HQ.m3u8
-#EXTINF:-1 ,BINGTUAN 兵团卫视
-http://122.238.172.63:3333/gptv/G_BINGTUAN.m3u8
-#EXTINF:-1 ,NONGLIN 农林卫视
-http://122.238.172.63:3333/gptv/G_NONGLIN.m3u8
-#EXTINF:-1 ,BEIJING-4K 北京卫视
-http://122.238.172.63:3333/gptv/G_BEIJING-4K.m3u8
-#EXTINF:-1 ,BEIJING-HQ 北京卫视
-http://122.238.172.63:3333/gptv/G_BEIJING-HQ.m3u8
-#EXTINF:-1 ,JILIN-HQ 吉林卫视
-http://122.238.172.63:3333/gptv/G_JILIN-HQ.m3u8
-#EXTINF:-1 ,SICHUAN-HQ 四川卫视
-http://122.238.172.63:3333/gptv/G_SICHUAN-HQ.m3u8
-#EXTINF:-1 ,TIANJIN-HQ 天津卫视
-http://122.238.172.63:3333/gptv/G_TIANJIN-HQ.m3u8
-#EXTINF:-1 ,NINGXIA 宁夏卫视
-http://122.238.172.63:3333/gptv/G_NINGXIA.m3u8
-#EXTINF:-1 ,ANDUO 安多卫视
-http://122.238.172.63:3333/gptv/G_ANDUO.m3u8
-#EXTINF:-1 ,ANHUI-HQ 安徽卫视
-http://122.238.172.63:3333/gptv/G_ANHUI-HQ.m3u8
-#EXTINF:-1 ,SHANDONG-HQ 山东卫视
-http://122.238.172.63:3333/gptv/G_SHANDONG-HQ.m3u8
-#EXTINF:-1 ,GUANGDONG-HQ 广东卫视
-http://122.238.172.63:3333/gptv/G_GUANGDONG-HQ.m3u8
-#EXTINF:-1 ,GUANGXI-HQ 广西卫视
-http://122.238.172.63:3333/gptv/G_GUANGXI-HQ.m3u8
-#EXTINF:-1 ,KANGBA 康巴卫视
-http://122.238.172.63:3333/gptv/G_KANGBA.m3u8
-#EXTINF:-1 ,YANBIAN 延边卫视
-http://122.238.172.63:3333/gptv/G_YANBIAN.m3u8
-#EXTINF:-1 ,XINJIANG 新疆卫视
-http://122.238.172.63:3333/gptv/G_XINJIANG.m3u8
-#EXTINF:-1 ,JIANGSU-HQ 江苏卫视
-http://122.238.172.63:3333/gptv/G_JIANGSU-HQ.m3u8
-#EXTINF:-1 ,JIANGXI-HQ 江西卫视
-http://122.238.172.63:3333/gptv/G_JIANGXI-HQ.m3u8
-#EXTINF:-1 ,HEBEI-HQ 河北卫视
-http://122.238.172.63:3333/gptv/G_HEBEI-HQ.m3u8
-#EXTINF:-1 ,HENAN-HQ 河南卫视
-http://122.238.172.63:3333/gptv/G_HENAN-HQ.m3u8
-#EXTINF:-1 ,ZHEJIANG-HQ 浙江卫视
-http://122.238.172.63:3333/gptv/G_ZHEJIANG-HQ.m3u8
-#EXTINF:-1 ,HAINAN-HQ 海南卫视
-http://122.238.172.63:3333/gptv/G_HAINAN-HQ.m3u8
-#EXTINF:-1 ,SHENZHEN-HQ 深圳卫视
-http://122.238.172.63:3333/gptv/G_SHENZHEN-HQ.m3u8
-#EXTINF:-1 ,HUBEI-HQ 湖北卫视
-http://122.238.172.63:3333/gptv/G_HUBEI-HQ.m3u8
-#EXTINF:-1 ,HUNAN-HQ 湖南卫视
-http://122.238.172.63:3333/gptv/G_HUNAN-HQ.m3u8
-#EXTINF:-1 ,GANSU-HQ 甘肃卫视
-http://122.238.172.63:3333/gptv/G_GANSU-HQ.m3u8
-#EXTINF:-1 ,XIZANG 西藏卫视
-http://122.238.172.63:3333/gptv/G_XIZANG.m3u8
-#EXTINF:-1 ,GUIZHOU-HQ 贵州卫视
-http://122.238.172.63:3333/gptv/G_GUIZHOU-HQ.m3u8
-#EXTINF:-1 ,LIAONING-HQ 辽宁卫视
-http://122.238.172.63:3333/gptv/G_LIAONING-HQ.m3u8
-#EXTINF:-1 ,CHONGQING-HQ 重庆卫视
-http://122.238.172.63:3333/gptv/G_CHONGQING-HQ.m3u8
-#EXTINF:-1 ,SHANXI-HQ 陕西卫视
-http://122.238.172.63:3333/gptv/G_SHANXI-HQ.m3u8
-#EXTINF:-1 ,HEILONGJIANG-HQ 黑龙江卫视
-http://122.238.172.63:3333/gptv/G_HEILONGJIANG-HQ.m3u8
-#EXTINF:-1 ,NEIMENGGU 内蒙古卫视
-http://122.238.172.63:3333/gptv/G_NEIMENGGU.m3u8
-
-
