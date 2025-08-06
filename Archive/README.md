@@ -8,7 +8,17 @@
 # Hong Kong DNS
 202.155.212.82
 
+# USA DNS
+89.233.43.71
+144.76.157.242
+84.200.70.40
+91.239.100.100
+
+
+
 TiviMate - http://bit.ly/3S6j7sa
+Vysor
+
 
 https://raw.githubusercontent.com/hellokittykkkk/IPTV/refs/heads/main/US.Fav.sz.m3u
 https://tinyurl.com/yr3kvnth

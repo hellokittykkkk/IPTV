@@ -1,0 +1,1986 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Entertainment",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="News",TVBS News (TVBS新聞台) [Geo-blocked]
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+
+
+#
+#
+#EXTINF:-1 tvg-id="RTHKTV31.hk",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk",RTHK TV 31 (港台電視31) (360p) [Geo-blocked]
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV32.hk",RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV32.hk",RTHK TV 32 (港台電視32) (360p) [Geo-blocked]
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV33.hk",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV34.hk",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 tvg-id="",RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+#EXTINF:-1 tvg-id="",RTHK TV 36 (港台電視36) (1080p) [Geo-blocked]
+https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
+#
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",凤凰资讯 (720p)
+http://php.17186.eu.org/phtv/fhzx.m3u8
+
+#EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="General",HKSTV
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+
+
+#EXTINF:18, TAIWANPLUS 
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:60, TVBJ1 
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:0, TVBPLUS 
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:0, TVBS新闻台 
+http://api.mytv666.top/api/hk.php?id=6366366232313066623564653734326233383533656239343137313864626639267469643d77696e74763132332669643d3532
+#EXTINF:0, TVBS欢乐 
+http://61.216.11.93:49981/stream/channelid/1607444205?profile=webtv-h264-aac-mpegts
+#EXTINF:72, TVB亚洲剧台 
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:72, TVB娱乐新闻台 
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:100, TVB娱乐新闻台 
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:99, TVB娱乐新闻台 
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:99, TVB无线新闻台 
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:0, TVB无线新闻台 
+http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
+#EXTINF:72, TVB星河 
+http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+#EXTINF:99, TVB星河 
+http://php.jdshipin.com/smt.php?id=Xinhe
+#EXTINF:102, TVB翡翠台 
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:100, VIUTV 
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:4, VIUTV 
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:100, VIUTV 
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:0, 东森新闻 
+#http://api.mytv666.top/api/hk.php?id=6666323035643663343766316231356134636232653135646535333232336166267469643d77696e74763132332669643d3434
+#EXTINF:39, 东森综合 
+https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
+#EXTINF:0, 东森财经新闻台 
+http://api.mytv666.top/api/hk.php?id=3366353564656564303034623865343935613737356162393665633732633138267469643d77696e74763132332669643d3435
+#EXTINF:0, 东森超视 
+http://61.216.11.93:49981/stream/channelid/1026178460?profile=webtv-h264-aac-mpegts
+#EXTINF:0, 中视新闻 
+http://api.mytv666.top/api/hk.php?id=6138663230386338366361363064623465353961333963373563343466316639267469643d77696e74763132332669643d3530
+#EXTINF:0, 八大第一台 
+http://61.216.11.93:49981/stream/channelid/2021000694?profile=webtv-h264-aac-mpegts
+#EXTINF:0, 八大综合台 
+http://61.216.11.93:49981/stream/channelid/1339557876?profile=webtv-h264-aac-mpegts
+#EXTINF:0, 凤凰卫视中文台 
+http://j.s.bkpcp.top/js/fhzw
+#EXTINF:60, 凤凰卫视中文台 
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:0, 凤凰卫视资讯台 
+http://j.s.bkpcp.top/js/fhzx
+#EXTINF:60, 凤凰卫视资讯台 
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:0, 凤凰卫视香港台 
+http://j.s.bkpcp.top/js/fhxg
+#EXTINF:101, 千禧经典 
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:100, 千禧经典 
+http://php.jdshipin.com/smt.php?id=Tvbclassic
+#EXTINF:100, 千禧经典 
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:100, 华丽翡翠台 
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:0, 华丽翡翠台 
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:0, 华视新闻 
+http://api.mytv666.top/api/hk.php?id=6261363335363330383638353961326461623131616231386263356433316265267469643d77696e74763132332669643d3531
+#EXTINF:0, 台视新闻 
+http://api.mytv666.top/api/hk.php?id=3734336535623139656265303339663361646637333131663633363331653863267469643d77696e74763132332669643d3439
+#EXTINF:101, 天映经典 
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:100, 天映频道 
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:0, 好莱坞电影 
+http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
+#EXTINF:0, 寰宇新闻 
+http://api.mytv666.top/api/hk.php?id=3564653032633337613964616638353465646263396438356462316234373238267469643d77696e74763132332669643d3437
+#EXTINF:0, 寰宇新闻台湾台 
+http://api.mytv666.top/api/hk.php?id=3264386336616633313438633165356234343633333835343932323730646666267469643d77696e74763132332669643d3438
+#EXTINF:0, 年代MUCH 
+http://61.216.11.93:49981/stream/channelid/644357774?profile=webtv-h264-aac-mpegts
+#EXTINF:0, 年代新闻 
+http://api.mytv666.top/api/hk.php?id=3666643635353637663833346366363536386431333931323061356464376332267469643d77696e74763132332669643d3436
+#EXTINF:100, 明珠台 
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:100, 明珠台 
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:0, 民视 
+http://61.216.11.93:49981/stream/channelid/1736257299?profile=webtv-h264-aac-mpegts
+#EXTINF:30, 番薯电视台 
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:0, 緯來綜合 
+http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
+#EXTINF:0, 緯來電影 
+http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
+#EXTINF:39, 美亞電影台 
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:40, 美亞電影台 
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
+#EXTINF:18,Channel 5 HD
+http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:18,Channel 8 HD
+http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:18,Channel U HD
+http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:24,CNA
+http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:18,EuroSport 1
+http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+#EXTINF:18,EuroSport 2
+http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+
+#EXTINF:0, MOMOTV 
+rtmp://f13h.mine.nu/sat/tv761
+
+#EXTINF:18,8TV
+http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+#EXTINF:18,Animax (HK)
+http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+#EXTINF:18,Astro Football
+http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+#EXTINF:18,Astro Sport UHD
+http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+#EXTINF:18,AXN
+http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:48,Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:50,Bloomberg TV Asia Live Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:18, CBNNEWS 
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:0, CINEMAX 
+http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
+
+#EXTINF:24,KLT-靖天國際台
+http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+#EXTINF:18,Love Nature HD
+http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+#EXTINF:18,PopC
+http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:18,ROCK Action
+http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+
+#EXTINF:24,Sky Sports F1
+http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
+#EXTINF:18,TNT SPORTS 1
+http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
+#EXTINF:18,TNT SPORTS 2
+http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+#EXTINF:18,TNT SPORTS 3
+http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
+#EXTINF:18,TVB Plus
+http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+#EXTINF:24,TVB 星河
+http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+#EXTINF:24,TVBS
+http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+#EXTINF:60,TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:0,TVBS News (TVBS新聞台) [Geo-blocked]
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:24,TVBS新聞
+http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+#EXTINF:18,tvN
+http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:17,中天亚洲台
+http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+#EXTINF:30,中天新闻台
+http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:0,凤凰资讯 (720p)
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:18,天映經典(1080)
+http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+#EXTINF:30,日テレNEWS LIVE
+http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+#EXTINF:18,明珠剧集台(北美)
+http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+#EXTINF:17,明珠台
+http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+#EXTINF:29,東森新聞
+http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:24,民視
+http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+#EXTINF:24,民視第一台
+http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+#EXTINF:18,無線新聞台
+http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+#EXTINF:18,美亞電影台(HK)
+http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:18,翡翠剧集台(北美)
+http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+#EXTINF:18,翡翠台
+http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+#EXTINF:18,翡翠综合台(北美)
+http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+#EXTINF:18,鳳凰衛視中文台
+http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:18,鳳凰衛視資訊台
+http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:18,鳳凰衛視香港台
+http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+#EXTINF:18,黃金翡翠台
+http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+
+#EXTINF:-1 ,CCTV1-综合
+https://stream1.freetv.fun/cctv1--wj-1.ctv
+
+#EXTINF:-1 ,CCTV2-财经
+https://stream1.freetv.fun/cctv2--wj-1.ctv
+
+#EXTINF:-1 ,CCTV3-综艺
+https://stream1.freetv.fun/cctv3--wj-1.ctv
+
+#EXTINF:-1 ,CCTV4-国际
+http://122.238.172.63:3333/bst/cctv4hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV5-体育
+https://stream1.freetv.fun/54cad3d62b58a3d72861d5ab56ec74fe0b6dd67196cd3fd90d9252e27a400660.ctv
+
+#EXTINF:-1 ,CCTV-5+
+https://stream1.freetv.fun/cctv5-plus--wj-1.ctv
+
+#EXTINF:-1 ,CCTV6-电影
+https://stream1.freetv.fun/cctv6--wj-1.ctv
+
+#EXTINF:-1 ,CCTV7-军农
+http://122.238.172.63:3333/bst/cctv7hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV8-电视剧
+https://stream1.freetv.fun/cctv8--wj-1.ctv
+
+#EXTINF:-1 ,CCTV9-纪录
+https://stream1.freetv.fun/cctv9--wj-1.ctv
+
+#EXTINF:-1 ,CCTV10-科教
+https://stream1.freetv.fun/cctv10--wj-1.ctv
+
+#EXTINF:-1 ,CCTV11-戏曲
+https://stream1.freetv.fun/cctv11--wj-1.ctv
+
+#EXTINF:-1 ,CCTV12-社会与法
+http://122.238.172.63:3333/bst/cctv12hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV13-新闻
+https://stream1.freetv.fun/cctv13--wj-1.ctv
+
+#EXTINF:-1 ,CCTV14-少儿
+http://122.238.172.63:3333/bst/cctvsehd@4000000.m3u8
+
+#EXTINF:-1 ,CCTV15-音乐
+http://122.238.172.63:3333/bst/cctvyyhd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV-16
+http://122.238.172.63:3333/bst/cctv16hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV-16-4K
+http://122.238.172.63:3333/bst/cctv16hd4k@15000000.m3u8
+
+#EXTINF:-1 ,CCTV-17
+http://122.238.172.63:3333/bst/cctv17hd4m@4000000.m3u8
+
+#EXTINF:-1 ,CCTV-4k
+http://122.238.172.63:3333/bst/cctv4k@15000000.m3u8
+
+
+#EXTINF:-1 ,CETV1 中学生 国际汉语
+http://122.238.172.63:3333/gptv/G_CETV-1-HQ.m3u8
+#EXTINF:-1 ,CETV2 国际旅游
+http://122.238.172.63:3333/gptv/G_CETV-2.m3u8
+#EXTINF:-1 ,CETV3 国际教育
+http://122.238.172.63:3333/gptv/G_CETV-3.m3u8
+#EXTINF:-1 ,CETV4 国际健康
+http://122.238.172.63:3333/gptv/G_CETV-4.m3u8
+
+#EXTINF:-1 ,CGTN 
+http://122.238.172.63:3333/bst/cctvnews@2500000.m3u8
+#EXTINF:-1 ,CGTN Documentary HD 纪录
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 ,CGTN Documentary 纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+
+
+#EXTINF:-1 ,海峡卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+#EXTINF:-1 ,香港卫视
+#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,北京卫视
+http://xxwx.yoesun.com/xxw/北京网.php?id=bjws
+#EXTINF:-1 ,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 ,北京卫视
+https://smart.pendy.dpdns.org/Smart.php?id=beijing
+#EXTINF:-1 ,广西卫视
+https://smart.pendy.dpdns.org/Smart.php?id=guangxi
+
+#EXTINF:-1 ,SANSHA-HQ 三沙卫视
+http://122.238.172.63:3333/gptv/G_SANSHA-HQ.m3u8
+#EXTINF:-1 ,DONGNAN-HQ 东南卫视
+http://122.238.172.63:3333/gptv/G_DONGNAN-HQ.m3u8
+#EXTINF:-1 ,DONGFANG-HQ 东方卫视
+http://122.238.172.63:3333/gptv/G_DONGFANG-HQ.m3u8
+#EXTINF:-1 ,YUNNAN-HQ 云南卫视
+http://122.238.172.63:3333/gptv/G_YUNNAN-HQ.m3u8
+#EXTINF:-1 ,BINGTUAN 兵团卫视
+http://122.238.172.63:3333/gptv/G_BINGTUAN.m3u8
+#EXTINF:-1 ,NONGLIN 农林卫视
+http://122.238.172.63:3333/gptv/G_NONGLIN.m3u8
+#EXTINF:-1 ,BEIJING-4K 北京卫视
+http://122.238.172.63:3333/gptv/G_BEIJING-4K.m3u8
+#EXTINF:-1 ,BEIJING-HQ 北京卫视
+http://122.238.172.63:3333/gptv/G_BEIJING-HQ.m3u8
+#EXTINF:-1 ,JILIN-HQ 吉林卫视
+http://122.238.172.63:3333/gptv/G_JILIN-HQ.m3u8
+#EXTINF:-1 ,SICHUAN-HQ 四川卫视
+http://122.238.172.63:3333/gptv/G_SICHUAN-HQ.m3u8
+#EXTINF:-1 ,TIANJIN-HQ 天津卫视
+http://122.238.172.63:3333/gptv/G_TIANJIN-HQ.m3u8
+#EXTINF:-1 ,NINGXIA 宁夏卫视
+http://122.238.172.63:3333/gptv/G_NINGXIA.m3u8
+#EXTINF:-1 ,ANDUO 安多卫视
+http://122.238.172.63:3333/gptv/G_ANDUO.m3u8
+#EXTINF:-1 ,ANHUI-HQ 安徽卫视
+http://122.238.172.63:3333/gptv/G_ANHUI-HQ.m3u8
+#EXTINF:-1 ,SHANDONG-HQ 山东卫视
+http://122.238.172.63:3333/gptv/G_SHANDONG-HQ.m3u8
+#EXTINF:-1 ,GUANGDONG-HQ 广东卫视
+http://122.238.172.63:3333/gptv/G_GUANGDONG-HQ.m3u8
+#EXTINF:-1 ,GUANGXI-HQ 广西卫视
+http://122.238.172.63:3333/gptv/G_GUANGXI-HQ.m3u8
+#EXTINF:-1 ,KANGBA 康巴卫视
+http://122.238.172.63:3333/gptv/G_KANGBA.m3u8
+#EXTINF:-1 ,YANBIAN 延边卫视
+http://122.238.172.63:3333/gptv/G_YANBIAN.m3u8
+#EXTINF:-1 ,XINJIANG 新疆卫视
+http://122.238.172.63:3333/gptv/G_XINJIANG.m3u8
+#EXTINF:-1 ,JIANGSU-HQ 江苏卫视
+http://122.238.172.63:3333/gptv/G_JIANGSU-HQ.m3u8
+#EXTINF:-1 ,JIANGXI-HQ 江西卫视
+http://122.238.172.63:3333/gptv/G_JIANGXI-HQ.m3u8
+#EXTINF:-1 ,HEBEI-HQ 河北卫视
+http://122.238.172.63:3333/gptv/G_HEBEI-HQ.m3u8
+#EXTINF:-1 ,HENAN-HQ 河南卫视
+http://122.238.172.63:3333/gptv/G_HENAN-HQ.m3u8
+#EXTINF:-1 ,ZHEJIANG-HQ 浙江卫视
+http://122.238.172.63:3333/gptv/G_ZHEJIANG-HQ.m3u8
+#EXTINF:-1 ,HAINAN-HQ 海南卫视
+http://122.238.172.63:3333/gptv/G_HAINAN-HQ.m3u8
+#EXTINF:-1 ,SHENZHEN-HQ 深圳卫视
+http://122.238.172.63:3333/gptv/G_SHENZHEN-HQ.m3u8
+#EXTINF:-1 ,HUBEI-HQ 湖北卫视
+http://122.238.172.63:3333/gptv/G_HUBEI-HQ.m3u8
+#EXTINF:-1 ,HUNAN-HQ 湖南卫视
+http://122.238.172.63:3333/gptv/G_HUNAN-HQ.m3u8
+#EXTINF:-1 ,GANSU-HQ 甘肃卫视
+http://122.238.172.63:3333/gptv/G_GANSU-HQ.m3u8
+#EXTINF:-1 ,XIZANG 西藏卫视
+http://122.238.172.63:3333/gptv/G_XIZANG.m3u8
+#EXTINF:-1 ,GUIZHOU-HQ 贵州卫视
+http://122.238.172.63:3333/gptv/G_GUIZHOU-HQ.m3u8
+#EXTINF:-1 ,LIAONING-HQ 辽宁卫视
+http://122.238.172.63:3333/gptv/G_LIAONING-HQ.m3u8
+#EXTINF:-1 ,CHONGQING-HQ 重庆卫视
+http://122.238.172.63:3333/gptv/G_CHONGQING-HQ.m3u8
+#EXTINF:-1 ,SHANXI-HQ 陕西卫视
+http://122.238.172.63:3333/gptv/G_SHANXI-HQ.m3u8
+#EXTINF:-1 ,HEILONGJIANG-HQ 黑龙江卫视
+http://122.238.172.63:3333/gptv/G_HEILONGJIANG-HQ.m3u8
+#EXTINF:-1 ,NEIMENGGU 内蒙古卫视
+http://122.238.172.63:3333/gptv/G_NEIMENGGU.m3u8
+
+#
+#
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HOY Infotainment (1080p) [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#
+#EXTINF:-1 tvg-id="HKIBC.hk" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="Business",HOY International Business Channel (1080p) [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#
+#EXTINF:-1 tvg-id="HOYTV.hk" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="General",HOY TV (1080p) [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#
+#
+#EXTINF:-1 ,CECTV1 国际汉语
+http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+#EXTINF:-1 ,CECTV2 国际旅游
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 ,CECTV3 国际教育
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 ,CECTV4 国际健康
+http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+
+#EXTINF:-1 ,CHC家庭影院
+http://223.82.161.157:899/hls/51/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://223.82.161.157:899/hls/53/index.m3u8
+#EXTINF:-1 ,CHC影迷电影
+http://223.82.161.157:899/hls/54/index.m3u8
+
+#EXTINF:-1, Shanghai Channel (上海频道) 上海第一财经 
+http://k.061899.xyz/k.php?id=dycj?$K61899
+
+#EXTINF:-1, Shanghai Channel (上海频道) 点掌财经 
+https://volcanopull.aniu.tv/live/aniu2/index.m3u8
+
+#EXTINF:-1, Yunnan Channel (云南频道) 文山综合 
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1, Yunnan Channel (云南频道) 文山综合 
+rtmp://tvdrs.wsrtv.com.cn:5040/channellive/ch1
+#EXTINF:-1, Inner Mongolia Channel (内蒙古频道) 乌海新闻综合 
+http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
+#EXTINF:-1, Inner Mongolia Channel (内蒙古频道) 乌海都市生活 
+http://live.wuhainews.org.cn/dssh/sd/live.m3u8
+#EXTINF:-1, Inner Mongolia Channel (内蒙古频道) 内蒙古农牧 
+http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+
+#EXTINF:-1, Beijing Channel (北京频道) 北京卫视 
+http://xxwx.yoesun.com/xxw/北京网.php?id=bjws
+#EXTINF:-1, Beijing Channel (北京频道) 北京影视 
+http://xxwx.yoesun.com/xxw/北京网.php?id=bjys
+#EXTINF:-1, Beijing Channel (北京频道) 北京文艺 
+http://xxwx.yoesun.com/xxw/北京网.php?id=bjwy
+#EXTINF:-1, Beijing Channel (北京频道) 北京新闻 
+http://xxwx.yoesun.com/xxw/北京网.php?id=bjxw
+#EXTINF:-1, Beijing Channel (北京频道) 北京生活 
+http://xxwx.yoesun.com/xxw/北京网.php?id=bjsh
+#EXTINF:-1, Beijing Channel (北京频道) 北京纪实科教 
+http://122.238.172.63:3333/gptv/G_BEIJINGJS-HD.m3u8
+#EXTINF:-1, Beijing Channel (北京频道) 北京纪实科教 
+http://xxwx.yoesun.com/xxw/北京网.php?id=bjjs
+
+#EXTINF:-1, Beijing Channel (北京频道) 卡酷少儿 
+http://xxwx.yoesun.com/xxw/北京网.php?id=bjkk
+#EXTINF:-1, Jilin Channel (吉林频道) 东丰综合 
+http://stream5.jlntv.cn/df/sd/live.m3u8$720P
+#EXTINF:-1, Jilin Channel (吉林频道) 九台综合 
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8$720P
+#EXTINF:-1, Jilin Channel (吉林频道) 双阳综合 
+http://stream11.jlntv.cn/shuangyang/sd/live.m3u8$720P
+
+#EXTINF:-1, Jilin Channel (吉林频道) 图们综合 
+http://stream6.jlntv.cn/tm/playlist.m3u8
+#EXTINF:-1, Jilin Channel (吉林频道) 扶余综合 
+http://stream6.jlntv.cn/fy/playlist.m3u8
+#EXTINF:-1, Jilin Channel (吉林频道) 桦甸综合 
+http://stream10.jlntv.cn/huadian/playlist.m3u8
+#EXTINF:-1, Jilin Channel (吉林频道) 桦甸综合 
+http://stream10.jlntv.cn/huadian/sd/live.m3u8
+#EXTINF:-1, Jilin Channel (吉林频道) 磐石综合 
+http://stream5.jlntv.cn/ps/sd/live.m3u8$720P
+#EXTINF:-1, Sichuan Channel (四川频道) 五通桥综合 
+https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
+#EXTINF:-1, Sichuan Channel (四川频道) 井研新闻综合 
+http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 什邡综合 
+http://live.sfrmt.com:85/live/zhpd.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 什邡综合 
+rtmp://live.sfrmt.com/live/zhpd
+#EXTINF:-1, Sichuan Channel (四川频道) 内江科教 
+https://njzb.scnj.tv/hls_njtv_direct/9.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 内江综合 
+https://njzb.scnj.tv/hls_njtv_direct/1.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 剑阁综合 
+https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 四川科教 
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+
+#EXTINF:-1, Sichuan Channel (四川频道) 夹江综合 
+rtmp://tv.jjrm.org.cn/channellive/ch1
+#EXTINF:-1, Sichuan Channel (四川频道) 广元文化 
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 广元综合 
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 彭山综合 
+http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 德阳文旅科教 
+http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 德阳新闻综合 
+http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 攀枝花生活 
+https://live.pzhkai.com/wlshtl/sd/live.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 攀枝花综合 
+https://live.pzhkai.com/xwzhtl/sd/live.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 旺苍综合 
+http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 昭化综合 
+http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 松潘综合 
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 松潘综合 
+rtmp://live.spccmc.com:1936/live/spxwzh
+#EXTINF:-1, Sichuan Channel (四川频道) 汶川综合 
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 汶川综合 
+rtmp://live.iwcmt.cn:1936/live/zhxw
+#EXTINF:-1, Sichuan Channel (四川频道) 泸县综合频道 
+http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 泸州新闻综合 
+http://file.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 泸州新闻综合 
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 泸州新闻综合 
+https://www.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 泸州新闻综合 
+rtmp://tvdrs.luzhoubs.com/channellive/lztv1
+#EXTINF:-1, Sichuan Channel (四川频道) 泸州科教生活 
+http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 泸州科教生活 
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 泸州科教生活 
+https://www.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 泸州科教生活 
+rtmp://tvdrs.luzhoubs.com/channellive/lztv3
+#EXTINF:-1, Sichuan Channel (四川频道) 犍为新闻综合 
+http://r8.vzan.com:80/v/slowlive_230559508552681163.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 甘孜综合 
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+#EXTINF:-1, Sichuan Channel (四川频道) 甘孜综合 
+rtmp://tv.drs.ganzitv.com/channellive/gztv
+#EXTINF:-1, Sichuan Channel (四川频道) 达州文化生活 
+http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+#EXTINF:-1, Sichuan Channel (四川频道) 达州文化生活 
+rtmp://tv.drs.dzxw.net/channellive/ggpd-dz2
+#EXTINF:-1, Sichuan Channel (四川频道) 达州新闻综合 
+http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+#EXTINF:-1, Sichuan Channel (四川频道) 达州新闻综合 
+rtmp://tv.drs.dzxw.net/channellive/xwzhpd-dz1
+#EXTINF:-1, Sichuan Channel (四川频道) 通川综合 
+http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+#EXTINF:-1, Sichuan Channel (四川频道) 金堂综合 
+http://live.jtxwzx.com.cn:80/jtdst/hd/live.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 长宁综合 
+http://cnpull.sccnfb.com:80/live/123456.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 长宁综合 
+http://cnpull.sccnfb.com/live/123456.flv
+#EXTINF:-1, Sichuan Channel (四川频道) 雅安文化生活 
+https://m3u8channel.yunxya.com/nmip-media/channellive/channel100819/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 雅安新闻综合 
+https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+#EXTINF:-1, Sichuan Channel (四川频道) 青川综合 
+http://qcfile.qcrmt.com:80/nmip-media/channellive/channel100933/playlist.m3u8
+#EXTINF:-1, International Films (国际电影) 24小时免费电影 
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1, International Films (国际电影) 24小时动作频道 
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1, International Films (国际电影) 世界电影 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1, International Films (国际电影) 凤凰电影 
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1, International Films (国际电影) 印度电视 
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, International Films (国际电影) 墨西哥时光电影 
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1, International Films (国际电影) 巴西时光电影 
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1, International Films (国际电影) 惊悚电影 
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1, International Films (国际电影) 时光电影 
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1, International Films (国际电影) 电影天地 
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1, International Films (国际电影) 罗塔纳电影院 
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1, International Films (国际电影) 西班牙时光电影 
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, Anhui DX (安徽DX) 世界地理 
+http://60.168.244.203:8888/rtp/238.1.79.60:4616
+#EXTINF:-1, Anhui DX (安徽DX) 东方财经 
+http://60.168.244.203:8888/rtp/238.1.78.73:6456
+#EXTINF:-1, Anhui DX (安徽DX) 临泉新闻频道 
+http://60.168.244.203:8888/rtp/238.1.78.29:6160
+#EXTINF:-1, Anhui DX (安徽DX) 义安新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.211:7560
+#EXTINF:-1, Anhui DX (安徽DX) 乐游 
+http://60.168.244.203:8888/rtp/238.1.78.151:7080
+#EXTINF:-1, Anhui DX (安徽DX) 五河新闻综合 
+http://60.168.244.203:8888/rtp/238.1.79.52:4528
+#EXTINF:-1, Anhui DX (安徽DX) 亳州农村频道 
+http://60.168.244.203:8888/rtp/238.1.78.129:6904
+#EXTINF:-1, Anhui DX (安徽DX) 亳州综合频道 
+http://60.168.244.203:8888/rtp/238.1.78.128:6896
+#EXTINF:-1, Anhui DX (安徽DX) 休宁新闻综合 
+http://60.168.244.203:8888/rtp/238.1.79.20:4272
+#EXTINF:-1, Anhui DX (安徽DX) 六安社会生活 
+http://60.168.244.203:8888/rtp/238.1.78.145:7032
+#EXTINF:-1, Anhui DX (安徽DX) 六安综合频道 
+http://60.168.244.203:8888/rtp/238.1.78.144:7024
+#EXTINF:-1, Anhui DX (安徽DX) 兵器科技 
+http://60.168.244.203:8888/rtp/238.1.79.56:4584
+#EXTINF:-1, Anhui DX (安徽DX) 利辛新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.196:7440
+#EXTINF:-1, Anhui DX (安徽DX) 动漫秀场 
+http://60.168.244.203:8888/rtp/238.1.78.154:7104
+#EXTINF:-1, Anhui DX (安徽DX) 南陵新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.189:7384
+#EXTINF:-1, Anhui DX (安徽DX) 合肥新闻频道 
+http://60.168.244.203:8888/rtp/238.1.78.111:6760
+#EXTINF:-1, Anhui DX (安徽DX) 固镇新闻综合 
+http://60.168.244.203:8888/rtp/238.1.79.47:4488
+#EXTINF:-1, Anhui DX (安徽DX) 太湖新闻综合 
+http://60.168.244.203:8888/rtp/238.1.79.12:4208
+#EXTINF:-1, Anhui DX (安徽DX) 央视台球 
+http://60.168.244.203:8888/rtp/238.1.79.59:4608
+#EXTINF:-1, Anhui DX (安徽DX) 女性时尚 
+http://60.168.244.203:8888/rtp/238.1.79.55:4576
+#EXTINF:-1, Anhui DX (安徽DX) 宁国新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.216:7600
+#EXTINF:-1, Anhui DX (安徽DX) 安庆新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.117:6808
+#EXTINF:-1, Anhui DX (安徽DX) 安庆经济生活 
+http://60.168.244.203:8888/rtp/238.1.78.118:6816
+
+#EXTINF:-1, Anhui DX (安徽DX) 安徽公共 
+http://60.168.244.203:8888/rtp/238.1.79.43:4456
+#EXTINF:-1, Anhui DX (安徽DX) 安徽农业科教 
+http://60.168.244.203:8888/rtp/238.1.79.40:4432
+#EXTINF:-1, Anhui DX (安徽DX) 安徽国际 
+http://60.168.244.203:8888/rtp/238.1.78.61:6360
+#EXTINF:-1, Anhui DX (安徽DX) 安徽屯溪融媒 
+http://60.168.244.203:8888/rtp/238.1.79.45:4472
+#EXTINF:-1, Anhui DX (安徽DX) 安徽影视频道 
+http://60.168.244.203:8888/rtp/238.1.79.42:4448
+#EXTINF:-1, Anhui DX (安徽DX) 安徽经济生活 
+http://60.168.244.203:8888/rtp/238.1.79.44:4464
+#EXTINF:-1, Anhui DX (安徽DX) 安徽综艺体育 
+http://60.168.244.203:8888/rtp/238.1.79.41:4440
+#EXTINF:-1, Anhui DX (安徽DX) 宣城文旅生活 
+http://60.168.244.203:8888/rtp/238.1.78.143:7016
+#EXTINF:-1, Anhui DX (安徽DX) 宣城综合频道 
+http://60.168.244.203:8888/rtp/238.1.78.142:7008
+#EXTINF:-1, Anhui DX (安徽DX) 宿州新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.121:6840
+#EXTINF:-1, Anhui DX (安徽DX) 宿州科教频道 
+http://60.168.244.203:8888/rtp/238.1.78.123:6856
+#EXTINF:-1, Anhui DX (安徽DX) 宿州经济生活 
+http://60.168.244.203:8888/rtp/238.1.78.122:6848
+#EXTINF:-1, Anhui DX (安徽DX) 寿县新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.146:7040
+#EXTINF:-1, Anhui DX (安徽DX) 广德新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.212:7568
+#EXTINF:-1, Anhui DX (安徽DX) 广德生活频道 
+http://60.168.244.203:8888/rtp/238.1.78.213:7576
+#EXTINF:-1, Anhui DX (安徽DX) 徽州新闻频道 
+http://60.168.244.203:8888/rtp/238.1.78.138:6976
+#EXTINF:-1, Anhui DX (安徽DX) 快乐垂钓 
+http://60.168.244.203:8888/rtp/238.1.79.31:4360
+#EXTINF:-1, Anhui DX (安徽DX) 怀旧剧场 
+http://60.168.244.203:8888/rtp/238.1.79.61:4624
+#EXTINF:-1, Anhui DX (安徽DX) 文化精品 
+http://60.168.244.203:8888/rtp/238.1.79.54:4568
+#EXTINF:-1, Anhui DX (安徽DX) 旌德新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.215:7592
+#EXTINF:-1, Anhui DX (安徽DX) 无为新闻频道 
+http://60.168.244.203:8888/rtp/238.1.78.188:7376
+#EXTINF:-1, Anhui DX (安徽DX) 枞阳电视台 
+http://60.168.244.203:8888/rtp/238.1.78.210:7552
+#EXTINF:-1, Anhui DX (安徽DX) 桐城综合频道 
+http://60.168.244.203:8888/rtp/238.1.78.28:6152
+#EXTINF:-1, Anhui DX (安徽DX) 歙县综合频道 
+http://60.168.244.203:8888/rtp/238.1.78.200:7472
+#EXTINF:-1, Anhui DX (安徽DX) 池州文教生活 
+http://60.168.244.203:8888/rtp/238.1.78.148:7056
+#EXTINF:-1, Anhui DX (安徽DX) 池州新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.147:7048
+#EXTINF:-1, Anhui DX (安徽DX) 泗县新闻频道 
+http://60.168.244.203:8888/rtp/238.1.78.193:7416
+#EXTINF:-1, Anhui DX (安徽DX) 涡阳新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.197:7448
+#EXTINF:-1, Anhui DX (安徽DX) 淮北新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.135:6952
+#EXTINF:-1, Anhui DX (安徽DX) 淮北经济生活 
+http://60.168.244.203:8888/rtp/238.1.78.136:6960
+#EXTINF:-1, Anhui DX (安徽DX) 淮南新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.113:6776
+#EXTINF:-1, Anhui DX (安徽DX) 湾沚新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.187:7368
+#EXTINF:-1, Anhui DX (安徽DX) 滁州公共频道 
+http://60.168.244.203:8888/rtp/238.1.78.133:6936
+#EXTINF:-1, Anhui DX (安徽DX) 滁州新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.132:6928
+#EXTINF:-1, Anhui DX (安徽DX) 滁州科教频道 
+http://60.168.244.203:8888/rtp/238.1.78.134:6944
+#EXTINF:-1, Anhui DX (安徽DX) 潜山综合频道 
+http://60.168.244.203:8888/rtp/238.1.78.192:7408
+#EXTINF:-1, Anhui DX (安徽DX) 濉溪综合频道 
+http://60.168.244.203:8888/rtp/238.1.78.209:7544
+#EXTINF:-1, Anhui DX (安徽DX) 生活时尚 
+http://60.168.244.203:8888/rtp/238.1.78.155:7112
+#EXTINF:-1, Anhui DX (安徽DX) 电视指南 
+http://60.168.244.203:8888/rtp/238.1.79.53:4560
+#EXTINF:-1, Anhui DX (安徽DX) 界首综合频道 
+http://60.168.244.203:8888/rtp/238.1.78.195:7432
+#EXTINF:-1, Anhui DX (安徽DX) 祁门综合频道 
+http://60.168.244.203:8888/rtp/238.1.79.14:4224
+#EXTINF:-1, Anhui DX (安徽DX) 第一剧场 
+http://60.168.244.203:8888/rtp/238.1.79.63:4640
+#EXTINF:-1, Anhui DX (安徽DX) 繁昌新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.190:7392
+#EXTINF:-1, Anhui DX (安徽DX) 纪实人文 
+http://60.168.244.203:8888/rtp/238.1.78.153:7096
+#EXTINF:-1, Anhui DX (安徽DX) 绩溪新闻频道 
+http://60.168.244.203:8888/rtp/238.1.78.218:7616
+#EXTINF:-1, Anhui DX (安徽DX) 芜湖新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.112:6768
+#EXTINF:-1, Anhui DX (安徽DX) 芜湖生活频道 
+http://60.168.244.203:8888/rtp/238.1.78.80:6512
+#EXTINF:-1, Anhui DX (安徽DX) 茶 
+http://60.168.244.203:8888/rtp/238.1.79.30:4352
+#EXTINF:-1, Anhui DX (安徽DX) 萧县新闻综合 
+http://60.168.244.203:8888/rtp/238.1.79.46:4480
+#EXTINF:-1, Anhui DX (安徽DX) 蒙城新闻频道 
+http://60.168.244.203:8888/rtp/238.1.79.19:4264
+#EXTINF:-1, Anhui DX (安徽DX) 蚌埠新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.180:7312
+#EXTINF:-1, Anhui DX (安徽DX) 蚌埠生活频道 
+http://60.168.244.203:8888/rtp/238.1.78.181:7320
+#EXTINF:-1, Anhui DX (安徽DX) 郎溪新闻频道 
+http://60.168.244.203:8888/rtp/238.1.78.214:7584
+#EXTINF:-1, Anhui DX (安徽DX) 金寨综合频道 
+http://60.168.244.203:8888/rtp/238.1.79.21:4280
+#EXTINF:-1, Anhui DX (安徽DX) 金鹰纪实 
+http://60.168.244.203:8888/rtp/238.1.79.9:4184
+#EXTINF:-1, Anhui DX (安徽DX) 铜陵公共频道 
+http://60.168.244.203:8888/rtp/238.1.78.140:6992
+#EXTINF:-1, Anhui DX (安徽DX) 铜陵教育科技 
+http://60.168.244.203:8888/rtp/238.1.78.141:7000
+#EXTINF:-1, Anhui DX (安徽DX) 铜陵新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.139:6984
+#EXTINF:-1, Anhui DX (安徽DX) 阜南新闻综合 
+http://60.168.244.203:8888/rtp/238.1.79.11:4200
+#EXTINF:-1, Anhui DX (安徽DX) 阜阳教育频道 
+http://60.168.244.203:8888/rtp/238.1.78.126:6880
+#EXTINF:-1, Anhui DX (安徽DX) 阜阳新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.124:6864
+#EXTINF:-1, Anhui DX (安徽DX) 阜阳生活频道 
+http://60.168.244.203:8888/rtp/238.1.78.125:6872
+#EXTINF:-1, Anhui DX (安徽DX) 阜阳都市文艺 
+http://60.168.244.203:8888/rtp/238.1.78.127:6888
+#EXTINF:-1, Anhui DX (安徽DX) 霍山综合频道 
+http://60.168.244.203:8888/rtp/238.1.78.220:7632
+#EXTINF:-1, Anhui DX (安徽DX) 霍邱新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.119:6824
+#EXTINF:-1, Anhui DX (安徽DX) 风云剧场 
+http://60.168.244.203:8888/rtp/238.1.79.62:4632
+#EXTINF:-1, Anhui DX (安徽DX) 风云足球 
+http://60.168.244.203:8888/rtp/238.1.79.57:4592
+#EXTINF:-1, Anhui DX (安徽DX) 风云音乐 
+http://60.168.244.203:8888/rtp/238.1.79.64:4648
+#EXTINF:-1, Anhui DX (安徽DX) 马鞍山新闻综合 
+http://60.168.244.203:8888/rtp/238.1.79.15:4232
+#EXTINF:-1, Anhui DX (安徽DX) 马鞍山科教生活 
+http://60.168.244.203:8888/rtp/238.1.78.77:6488
+#EXTINF:-1, Anhui DX (安徽DX) 高尔夫网球 
+http://60.168.244.203:8888/rtp/238.1.79.58:4600
+#EXTINF:-1, Anhui DX (安徽DX) 黄山文旅频道 
+http://60.168.244.203:8888/rtp/238.1.78.131:6920
+#EXTINF:-1, Anhui DX (安徽DX) 黄山新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.130:6912
+#EXTINF:-1, Anhui DX (安徽DX) 黟县新闻综合 
+http://60.168.244.203:8888/rtp/238.1.78.149:7064
+#EXTINF:-1, Anhui Channel (安徽频道) 固镇综合频道 
+http://www.guzhenm.com:7001/hls/hd-live.m3u8
+
+#EXTINF:-1, Anhui Channel (安徽频道) 滁州公共频道 
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1, Anhui Channel (安徽频道) 滁州新闻综合 
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1, Anhui Channel (安徽频道) 滁州科教频道 
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1, Anhui Channel (安徽频道) 祁门综合频道 
+rtmp://tv.qmxrmt.com/chan/ch1
+
+#EXTINF:-1, Shandong Channel (山东频道) 日照五莲新闻 
+http://xxwx.yoesun.com/xxw/爱齐鲁.php?id=rzwlxw
+#EXTINF:-1, Shandong Channel (山西频道) 临汾一套 
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 十堰新闻综合 
+http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 十堰经济旅游 
+https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 古县综合 
+https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8$720P
+#EXTINF:-1, Shandong Channel (山西频道) 吉县综合 
+http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 壶关综合 
+http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 屯留综合 
+https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
+
+#EXTINF:-1, Shandong Channel (山西频道) 崇阳综合频道 
+http://61.184.176.248:10500/live/live.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 巴东综合 
+http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3522.m3u8?auth_key=4860354782-0-0-0bc026e554be331e11f9118a5507dbd6&extra_key=du5v5yekM-ggopdZ_sngtTZ65Uth9WDHICSAwr25ENDQIdlV3Yd2lHeLSlp5B8KLBoWG0nmJUj1QO75vWPg_oNJJLOYxRTOV57psEWQI4qKLGvWzL9PBysSluKuq-Ux9lJltJgQb5lWNdWOKYZiLcxSGG_008O5kq4mJC8KOxeo
+#EXTINF:-1, Shandong Channel (山西频道) 平遥融媒 
+https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05.m3u8
+
+#EXTINF:-1, Shandong Channel (山西频道) 广州南国 
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1, Shandong Channel (山西频道) 广州南国 
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=59b2d3f371597c07d47815034a0e6e78&txTime=19019c65629
+#EXTINF:-1, Shandong Channel (山西频道) 广州影视 
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=88ad17e0518f41980b392744d8ecbfc7&txTime=190def6e358
+#EXTINF:-1, Shandong Channel (山西频道) 广州影视 
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=cbfba109d1fef4ef29e93a1c6bba208e&txTime=19019e62015
+#EXTINF:-1, Shandong Channel (山西频道) 广州影视 
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d3dad1fd1a965ff59d3db3990b923267&txTime=18ee6e4efc1
+#EXTINF:-1, Shandong Channel (山西频道) 广州影视 
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
+#EXTINF:-1, Shandong Channel (山西频道) 广州新闻 
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+#EXTINF:-1, Shandong Channel (山西频道) 广州新闻 
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=c651b79c107d9cde3914d011cbb896a6&txTime=190def3c97d
+#EXTINF:-1, Shandong Channel (山西频道) 广州新闻 
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
+#EXTINF:-1, Shandong Channel (山西频道) 广州新闻 
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
+#EXTINF:-1, Shandong Channel (山西频道) 广州法治 
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
+#EXTINF:-1, Shandong Channel (山西频道) 广州法治 
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=491c40d07978ba7046704a7844042ff6&txTime=19019f3714e
+#EXTINF:-1, Shandong Channel (山西频道) 广州法治 
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c180b67d43e34b97c970524c05ef3b4e&txTime=18ee6e4efc1
+#EXTINF:-1, Shandong Channel (山西频道) 广州竞赛 
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
+#EXTINF:-1, Shandong Channel (山西频道) 广州竞赛 
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=f0caf677b15fe7b314aa18a8e00702d3&txTime=19019f0d637
+#EXTINF:-1, Shandong Channel (山西频道) 广州综合 
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743
+#EXTINF:-1, Shandong Channel (山西频道) 广州综合 
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+#EXTINF:-1, Shandong Channel (山西频道) 广州综合 
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=aae0358e06f64d4db4d663321a3fa964&txTime=190def4db74
+#EXTINF:-1, Shandong Channel (山西频道) 广州综合 
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
+#EXTINF:-1, Shandong Channel (山西频道) 怀仁综合 
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 恩施文旅频道 
+https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
+#EXTINF:-1, Shandong Channel (山西频道) 晋中公共 
+http://jzdb.jztvnews.com:83/live/mount_for_ts/jzgg.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 晋中公共 
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 晋中公共 
+rtmp://jzlive.jztvnews.com:1940/live/jzgg
+#EXTINF:-1, Shandong Channel (山西频道) 晋中综合 
+http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 晋中综合 
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 晋中综合 
+rtmp://jzlive.jztvnews.com:1940/live/jzzh
+#EXTINF:-1, Shandong Channel (山西频道) 晋城文化生活 
+http://live.jinnews.com.cn/ggpd/playlist.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 晋城文化生活 
+https://stream1.freetv.fun/906138969e04bb17662c36afe229862daf7f6d4f21e727ef3f9c2e6647a82435.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 晋城新闻综合 
+http://live.jinnews.com.cn/xwzh/playlist.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 晋城新闻综合 
+https://stream1.freetv.fun/dbfd677ba58d80b3619d05e23248b1e587a1e97860ee70c0a0bfaceb7268eea2.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 曲江综合 
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 武乡融媒 
+http://60.220.198.84:81/0.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 武乡融媒 
+http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 河源公共 
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 河源综合 
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+
+#EXTINF:-1, Shandong Channel (山西频道) 石首综合频道 
+http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 离石综合 
+http://p2bj.vzan.com/slowlive/409432888792717927/live.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 荆门新闻综合 
+http://stream.jmtv.com.cn/xwzh/playlist.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 荆门科教文旅 
+http://stream.jmtv.com.cn/ggsh/playlist.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 阳曲综合 
+https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 韶关综合 
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) 黎城综合 
+http://111.53.96.67:8081/live/1/index.m3u8
+#EXTINF:-1, Shandong Channel (山西频道) ,,#genre#
+#EXTINF:-1, Guangxi Channel (广西频道) 南宁公共 
+https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+#EXTINF:-1, Guangxi Channel (广西频道) 南宁影视 
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+#EXTINF:-1, Guangxi Channel (广西频道) 南宁文旅 
+http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+#EXTINF:-1, Guangxi Channel (广西频道) 南宁新闻 
+https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+
+#EXTINF:-1, Guangxi Channel (广西频道) 桂林公共 
+https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
+#EXTINF:-1, Guangxi Channel (广西频道) 桂林科教 
+https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
+#EXTINF:-1, Guangxi Channel (广西频道) 桂林综合 
+https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+#EXTINF:-1, Digital Channel (数字频道) 1905电影网 
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=1905a
+#EXTINF:-1, Digital Channel (数字频道) 1905电影网 
+http://k.061899.xyz/k.php?id=1905a
+#EXTINF:-1, Digital Channel (数字频道) 1905电影网 
+http://t.061899.xyz/tl/dq.php?id=1905a
+#EXTINF:-1, Digital Channel (数字频道) 1905电影网 
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905a
+#EXTINF:-1, Digital Channel (数字频道) 7478 
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227478/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) ASTROAOD 
+http://php.jdshipin.com/PLTV/iptv.php?id=aod
+#EXTINF:-1, Digital Channel (数字频道) ASTROAOD 
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1, Digital Channel (数字频道) BESTV4K 
+http://122.238.172.63:3333/bst/dypd4k@15000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) BESTV4K 
+http://122.238.172.63:3333/bst/sjpd4k@15000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) BES少儿4K 
+http://122.238.172.63:3333/bst/sepd4k@15000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) CHC动作电影 
+http://223.82.161.157:899/hls/54/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) CHC动作电影 
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=dzdy
+#EXTINF:-1, Digital Channel (数字频道) CHC动作电影 
+http://k.061899.xyz/k.php?id=dzdy
+#EXTINF:-1, Digital Channel (数字频道) CHC动作电影 
+http://t.061899.xyz/tl/dq.php?id=dzdy
+#EXTINF:-1, Digital Channel (数字频道) CHC家庭影院 
+http://223.82.161.157:899/hls/53/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) CHC家庭影院 
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=jtyy
+#EXTINF:-1, Digital Channel (数字频道) CHC家庭影院 
+http://k.061899.xyz/k.php?id=jtyy
+#EXTINF:-1, Digital Channel (数字频道) CHC家庭影院 
+http://t.061899.xyz/tl/dq.php?id=jtyy
+#EXTINF:-1, Digital Channel (数字频道) CHC影迷电影 
+http://223.82.161.157:899/hls/51/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) CHC影迷电影 
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=ymdy
+#EXTINF:-1, Digital Channel (数字频道) CHC影迷电影 
+http://k.061899.xyz/k.php?id=ymdy
+#EXTINF:-1, Digital Channel (数字频道) CHC影迷电影 
+http://t.061899.xyz/tl/dq.php?id=ymdy
+#EXTINF:-1, Digital Channel (数字频道) FASHIONTV 
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1, Digital Channel (数字频道) LOUPE4K 
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 世界历史 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 世界地理 
+http://223.82.161.157:899/hls/71/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 东方财经 
+http://122.238.172.63:3333/bst/dfcjhd4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 东方购物 
+http://122.238.172.63:3333/bst/dfgwsxhd8m@8000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 中华特产 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227502/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 中国功夫 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227473/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 中国天气 
+http://122.238.172.63:3333/bst/zgqxhd4mc@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 中国天气 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227210/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 中国通史 
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 中学生 
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=zxs
+#EXTINF:-1, Digital Channel (数字频道) 中学生 
+http://k.061899.xyz/k.php?id=zxs
+#EXTINF:-1, Digital Channel (数字频道) 中学生 
+http://t.061899.xyz/tl/dq.php?id=zxs
+#EXTINF:-1, Digital Channel (数字频道) 中学生 
+http://zba.sxdh.org/migu.php?v=index.php?&id=zxs
+#EXTINF:-1, Digital Channel (数字频道) 乐游 
+http://122.238.172.63:3333/bst/qjshd@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 乡村剧场 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 优优宝贝 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227367/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 优漫卡通 
+http://122.238.172.63:3333/gptv/G_YOUMAN.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 优漫卡通 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 优购物 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 优购物 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227319/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 优购物 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227466/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 传奇剧场 
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 传奇故事 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 健康养生 
+http://122.238.172.63:3333/bst/jkysvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 健康养生 
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1046_720P_t10/c59_fast_1046_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 健康大问诊 
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1035_720P_t10/c60_fast_1035_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 先锋乒羽 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 全球大片 
+http://122.238.172.63:3333/bst/qqdpvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 兵器科技 
+http://223.82.161.157:899/hls/65/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 养生堂 
+http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1032_720P_t10/c60_fast_1032_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 军事评论 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227452/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 军旅剧场 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227465/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 动作电影 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 动漫秀场 
+http://122.238.172.63:3333/bst/dmxchd@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 北京重温经典 
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1, Digital Channel (数字频道) 华语影院 
+http://122.238.172.63:3333/bst/hyyyvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 卡酷少儿 
+http://122.238.172.63:3333/bst/kkkt@1300000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 卡酷少儿 
+http://122.238.172.63:3333/bst/kkkt2d5m@2500000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 卡酷少儿 
+http://122.238.172.63:3333/gptv/G_KAKU.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 卡酷少儿 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227456/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 发现之旅 
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=fxzl
+#EXTINF:-1, Digital Channel (数字频道) 发现之旅 
+http://k.061899.xyz/k.php?id=fxzl
+#EXTINF:-1, Digital Channel (数字频道) 发现之旅 
+http://t.061899.xyz/tl/dq.php?id=fxzl
+#EXTINF:-1, Digital Channel (数字频道) 发现之旅 
+http://zba.sxdh.org/migu.php?v=index.php?&id=fxzl
+#EXTINF:-1, Digital Channel (数字频道) 古装剧场 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227307/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 古装剧场 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227307/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 古装剧场 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 哈哈炫动 
+http://122.238.172.63:3333/bst/hhxdhd@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 哈哈炫动 
+http://122.238.172.63:3333/gptv/G_XUANDONG.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 哈哈炫动 
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 哒啵赛事 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227331/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 嘉佳卡通 
+http://122.238.172.63:3333/bst/jjkt@1300000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 嘉佳卡通 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227230/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 嘉佳卡通 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 国学 
+rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=4524f29740cb9aa8ff28ff0daf2341e2&wsTime=1736420117
+#EXTINF:-1, Digital Channel (数字频道) 天下精选 
+http://122.238.172.63:3333/bst/ktxjx8m@8000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 天元围棋 
+http://122.238.172.63:3333/gptv/G_TIANYUANWQ.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 央广购物 
+http://122.238.172.63:3333/bst/yggwsd2d5m@2500000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 女性时尚 
+http://122.238.172.63:3333/gptv/G_NVXINGSS.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 好享购物 
+http://122.238.172.63:3333/bst/hxgwsd2d5m@2500000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 宝宝动画 
+http://122.238.172.63:3333/bst/bbdhvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 家庭剧场 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227457/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 家庭剧场 
+http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 家庭理财 
+http://122.238.172.63:3333/bst/jtlcsd2d5mc@2500000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 导视 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226866/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 快乐垂钓 
+http://122.238.172.63:3333/bst/klcdhd4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 快乐垂钓 
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 快乐垂钓 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 怀旧剧场 
+http://223.82.161.157:899/hls/67/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 怀旧年代 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 怡伴健康 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227460/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 戏曲精选 
+http://122.238.172.63:3333/bst/xqjxvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 抗战剧场 
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 搜狐剧场 
+https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+#EXTINF:-1, Digital Channel (数字频道) 数字频道 
+#genre#
+#EXTINF:-1, Digital Channel (数字频道) 文化精品 
+http://223.82.161.157:899/hls/64/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 新视觉 
+http://122.238.172.63:3333/bst/xsjhd@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 星光院线 
+http://122.238.172.63:3333/bst/xgyyvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 智勇闯关 
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1027_720P_t10/c60_fast_1027_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 未知频道 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227327/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 欢乐剧场 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 欢笑剧场 
+http://122.238.172.63:3333/bst/hxjc4k@15000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 欢笑剧场 
+http://122.238.172.63:3333/bst/hxjchd@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 河南梨园 
+http://223.82.161.157:899/hls/77/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 游戏风云 
+http://122.238.172.63:3333/bst/yxfyhd@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 潮妈辣婆 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227311/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 潮妈辣婆 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227311/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 热门剧场 
+http://122.238.172.63:3333/bst/rmjcvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 热门综艺 
+http://122.238.172.63:3333/bst/rmzyvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 爆笑综艺 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 爱奇艺iQiyi 
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1, Digital Channel (数字频道) 爱情喜剧 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227462/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 环球奇观 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227490/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 生态环境 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227494/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 生活时尚 
+http://122.238.172.63:3333/bst/shsshd@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 电子竞技 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227252/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 电影大片 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 电竞天堂 
+http://122.238.172.63:3333/bst/djttvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 百变课堂 
+http://122.238.172.63:3333/bst/bbktvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 相声小品 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 睛彩广场舞 
+http://116.230.254.173:8004/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1, Digital Channel (数字频道) 睛彩广场舞 
+http://122.238.172.63:3333/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1, Digital Channel (数字频道) 睛彩竞技 
+http://116.230.254.173:8004/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1, Digital Channel (数字频道) 睛彩竞技 
+http://122.238.172.63:3333/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1, Digital Channel (数字频道) 睛彩竞技 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227047/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 睛彩篮球 
+http://116.230.254.173:8004/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1, Digital Channel (数字频道) 睛彩篮球 
+http://122.238.172.63:3333/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1, Digital Channel (数字频道) 睛彩篮球 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 睛彩青少 
+http://116.230.254.173:8004/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1, Digital Channel (数字频道) 睛彩青少 
+http://122.238.172.63:3333/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1, Digital Channel (数字频道) 睛彩青少 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227314/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 福建文体 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227188/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 福建电视剧 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227079/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 福建综合 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227149/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 第一剧场 
+http://223.82.161.157:899/hls/70/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 第三调解室 
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 精品体育 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227470/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 精品大剧 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227315/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 精品大剧 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227315/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 精品纪录 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227461/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 精品萌宠 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227183/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 纪实档案 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 纯享4K 
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 经典传奇 
+http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 经典老剧 
+http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 老故事 
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=lgs
+#EXTINF:-1, Digital Channel (数字频道) 老故事 
+http://k.061899.xyz/k.php?id=lgs
+#EXTINF:-1, Digital Channel (数字频道) 老故事 
+http://t.061899.xyz/tl/dq.php?id=lgs
+#EXTINF:-1, Digital Channel (数字频道) 老故事 
+http://zba.sxdh.org/migu.php?v=index.php?&id=lgs
+#EXTINF:-1, Digital Channel (数字频道) 茶 
+http://122.238.172.63:3333/bst/cpdhdavs8m@8000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 茶 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226859/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 警匪悬疑 
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 谍战剧场 
+http://122.238.172.63:3333/bst/dzjcvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 谍战剧场 
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 财富天下 
+http://122.238.172.63:3333/bst/cftx@2500000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 都市剧场 
+http://122.238.172.63:3333/bst/dsjchd@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 都市生活 
+http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 重温经典 
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cwjd
+#EXTINF:-1, Digital Channel (数字频道) 重温经典 
+http://k.061899.xyz/k.php?id=cwjd
+#EXTINF:-1, Digital Channel (数字频道) 重温经典 
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+#EXTINF:-1, Digital Channel (数字频道) 重温经典 
+http://t.061899.xyz/tl/dq.php?id=cwjd
+#EXTINF:-1, Digital Channel (数字频道) 金牌综艺 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227469/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 金牌调解 
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
+#EXTINF:-1, Digital Channel (数字频道) 金色学堂 
+http://122.238.172.63:3333/bst/jsxthd4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 金鹰卡通 
+http://122.238.172.63:3333/bst/jykt@1300000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 金鹰卡通 
+http://122.238.172.63:3333/gptv/G_JINYING.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 金鹰纪实 
+http://122.238.172.63:3333/bst/jyjs8m@8000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 金鹰纪实 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226937/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 青春动漫 
+http://122.238.172.63:3333/bst/qcdmvcc4m@4000000.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 风云剧场 
+http://223.82.161.157:899/hls/69/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 风云足球 
+http://223.82.161.157:899/hls/68/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 风云音乐 
+http://223.82.161.157:899/hls/66/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 黑莓动画 
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 黑莓动画 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) 黑莓电影 
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
+#EXTINF:-1, Digital Channel (数字频道) ,,#genre#
+#EXTINF:-1, Xinjiang Channel (新疆频道) 五家渠综合 
+http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 五家渠综合 
+rtmp://liveout.btzx.com.cn/62ds9e/d9vi5g
+#EXTINF:-1, Xinjiang Channel (新疆频道) 可克达拉综合 
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 塔城一套 
+http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 塔城一套 
+rtmp://218.84.35.38/live/tctv-1
+#EXTINF:-1, Xinjiang Channel (新疆频道) 塔城三套 
+http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 塔城三套 
+rtmp://218.84.35.38/live/tctv-3
+#EXTINF:-1, Xinjiang Channel (新疆频道) 塔城二套 
+http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 塔城二套 
+rtmp://218.84.35.38/live/tctv-2
+#EXTINF:-1, Xinjiang Channel (新疆频道) 巴州综合 
+http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 巴州综合 
+rtmp://tv.loulannews.cn/channellive/ch1
+#EXTINF:-1, Xinjiang Channel (新疆频道) 巴州蒙语 
+http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 巴州蒙语 
+rtmp://tv.loulannews.cn/channellive/ch2
+#EXTINF:-1, Xinjiang Channel (新疆频道) 巴音教育 
+http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 巴音教育 
+rtmp://tv.loulannews.cn/channellive/ch4
+#EXTINF:-1, Xinjiang Channel (新疆频道) 巴音生活 
+http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 巴音生活 
+rtmp://tv.loulannews.cn/channellive/ch3
+#EXTINF:-1, Xinjiang Channel (新疆频道) 新星综合 
+http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 新疆频道 
+#genre#
+#EXTINF:-1, Xinjiang Channel (新疆频道) 昆玉综合 
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 玛纳斯综合 
+http://218.84.127.245:1026/hls/main1/playlist.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 石河子综合 
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1, Xinjiang Channel (新疆频道) 石河子综合 
+rtmp://124.88.144.73:1935/live/xwzh
+#EXTINF:-1, Jiangsu Channel (江苏频道) 丹阳新闻 
+http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.flv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 丹阳新闻 
+http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 丹阳新闻 
+rtmp://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 南京少儿 
+http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 南京教科 
+http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 南京新闻综合 
+http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 句容新闻综合 
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 句容生活频道 
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 吴江新闻综合 
+https://stream1.freetv.fun/50667e9d9ac38079c86bd2e6a994d4b0e4ff863ef6d6bcd325629c4df9fd8717.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 如东综合频道 
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.flv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 如东综合频道 
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 如东综合频道 
+rtmp://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh
+#EXTINF:-1, Jiangsu Channel (江苏频道) 宿豫综合 
+http://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.flv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 宿豫综合 
+https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 宿豫综合 
+rtmp://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd
+#EXTINF:-1, Jiangsu Channel (江苏频道) 无线淮安 
+http://live1.habctv.com/ggpdsl/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 无线淮安 
+http://live1.habctv.com/ysylsl/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 无锡娱乐 
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 无锡新闻综合 
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 无锡生活 
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 无锡经济 
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 无锡都市资讯 
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 武进新闻 
+https://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 武进生活 
+https://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江宁综合 
+http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.flv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江宁综合 
+https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江宁综合 
+rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏优漫卡通 
+http://xxwx.yoesun.com/xxw/江苏网.php?id=ymkt
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏体育 
+http://xxwx.yoesun.com/xxw/江苏网.php?id=jsty
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏卫视 
+http://xxwx.yoesun.com/xxw/江苏网.php?id=jsws
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏国际 
+http://xxwx.yoesun.com/xxw/江苏网.php?id=jsgj
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏城市 
+http://xxwx.yoesun.com/xxw/江苏网.php?id=jscs
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏影视 
+http://xxwx.yoesun.com/xxw/江苏网.php?id=jsys
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏教育 
+http://xxwx.yoesun.com/xxw/江苏网.php?id=jsjy
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏新闻 
+http://xxwx.yoesun.com/xxw/江苏网.php?id=jsxw
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏综艺 
+http://xxwx.yoesun.com/xxw/江苏网.php?id=jszy
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江苏频道 
+#genre#
+#EXTINF:-1, Jiangsu Channel (江苏频道) 江阴新闻综合 
+http://221.228.70.101:8080/live/xinwen.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 沛县新闻综合 
+http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.flv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 沛县新闻综合 
+http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 沛县新闻综合 
+rtmp://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh
+#EXTINF:-1, Jiangsu Channel (江苏频道) 沭阳综合 
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.flv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 沭阳综合 
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 沭阳综合 
+rtmp://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh
+#EXTINF:-1, Jiangsu Channel (江苏频道) 泗洪综合 
+http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8$720P
+#EXTINF:-1, Jiangsu Channel (江苏频道) 泗阳综合 
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.flv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 泗阳综合 
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 泗阳综合 
+rtmp://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh
+#EXTINF:-1, Jiangsu Channel (江苏频道) 泗阳资讯 
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.flv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 泗阳资讯 
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 泗阳资讯 
+rtmp://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx
+#EXTINF:-1, Jiangsu Channel (江苏频道) 涟水综合 
+http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 淮北综合 
+http://xcblive.hbcoal.com/3/playlist.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 睢宁三农 
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 睢宁生活教育 
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 睢宁综合 
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 睢宁资讯 
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 苏州4K频道 
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 苏州文化生活 
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 苏州新闻综合 
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 苏州生活资讯 
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 苏州电影娱乐 
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 苏州社会经济 
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 金坛综合 
+http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 金湖新闻综合 
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.flv
+#EXTINF:-1, Jiangsu Channel (江苏频道) 金湖新闻综合 
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 金湖新闻综合 
+rtmp://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh
+#EXTINF:-1, Jiangsu Channel (江苏频道) 镇江二套 
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 镇江二套 
+rtmp://zjtv-wshls.homecdn.com/live/2aa16
+#EXTINF:-1, Jiangsu Channel (江苏频道) 镇江新闻综合 
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1, Jiangsu Channel (江苏频道) 镇江新闻综合 
+rtmp://zjtv-wshls.homecdn.com/live/2aa50
+
+#EXTINF:-1, Hebei Channel (河北频道) 石家庄城市服务 
+http://nn.7x9d.cn/石家庄.php?id=5
+#EXTINF:-1, Hebei Channel (河北频道) 石家庄文化娱乐 
+http://nn.7x9d.cn/石家庄.php?id=6
+#EXTINF:-1, Hebei Channel (河北频道) 石家庄新闻综合 
+http://nn.7x9d.cn/石家庄.php?id=4
+#EXTINF:-1, Hebei Channel (河北频道) 邢台综合频道 
+https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
+#EXTINF:-1, Hebei Channel (河北频道) 邢台综合频道 
+https://stream1.freetv.fun/2dc1760d271b15f5d8ec0925bf13037b100af661a5550d4fce6d738c38bdd8e8.m3u8
+#EXTINF:-1, Hebei Channel (河北频道) ,,
+#EXTINF:-1, Hebei Channel (河南频道) 临颍综合 
+http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 义马综合 
+http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 光山综合 
+http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 内黄综合 
+http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 卢氏综合 
+http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 卫辉综合 
+http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 原阳综合 
+http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 叶县综合 
+http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 周口公共 
+http://117.159.72.12:8081/live/8606202505932165833.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 周口四套 
+http://117.159.72.12:8081/live/6520562530090312540.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 周口教育 
+http://117.159.72.12:8081/live/2548854934748691151.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 唐河一套 
+http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 固始综合 
+http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 孟州综合 
+http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 孟津综合 
+http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 宜阳综合 
+http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 宝丰综合 
+http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 封丘综合 
+http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 嵩县综合 
+http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 巩义综合 
+http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 开封文化 
+http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 开封综合 
+http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 扶沟综合 
+http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 新乡综合 
+http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8$540P
+#EXTINF:-1, Hebei Channel (河南频道) 新县综合 
+http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 新安综合 
+http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 新密综合 
+http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 新蔡综合 
+http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 新郑综合 
+http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 新野综合 
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 方城一套 
+http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 杞县综合 
+http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 栾川综合 
+http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 武陟综合 
+http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 永城综合 
+http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 汝阳综合 
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 汤阴综合 
+http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
+
+#EXTINF:-1, Hebei Channel (河南频道) 济源一套 
+http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 浚县综合 
+http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 淅川综合 
+http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 淇县综合 
+http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 淮滨综合 
+http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 渑池综合 
+http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 温县综合 
+http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 滑县一套 
+http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 潢川综合 
+http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 灵宝综合 
+http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 焦作公共 
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 焦作综合 
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 登封综合 
+http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 确山融媒 
+http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 禹州综合 
+http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 舞阳综合 
+http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 荥阳综合 
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 襄城综合 
+http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 西华综合 
+http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8$540P
+#EXTINF:-1, Hebei Channel (河南频道) 西峡综合 
+http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 邓州综合 
+http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 郏县综合 
+http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 鄢陵综合 
+http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8$720P
+#EXTINF:-1, Hebei Channel (河南频道) 镇平综合 
+http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 长垣综合 
+http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1, Hebei Channel (河南频道) 项城综合 
+http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8$540P
+#EXTINF:-1, Hebei Channel (河南频道) 鹿邑综合 
+http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 上虞新商都 
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 上虞新闻综合 
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 东阳影视频道 
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 丽水缙云综合 
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8$720P
+#EXTINF:-1, Zhejiang Channel (浙江频道) 之江纪录 
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 云和综合频道 
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 余姚姚江文化 
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 嘉兴公共 
+http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1
+#EXTINF:-1, Zhejiang Channel (浙江频道) 嘉兴文化影视 
+http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d
+#EXTINF:-1, Zhejiang Channel (浙江频道) 宁波余姚综合 
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 宁波姚江文化 
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 平湖新闻综合 
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 庆元综合频道 
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 开化国家公园 
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 开化综合频道 
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 文成综合频道 
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 新昌新闻频道 
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 新昌生活频道 
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 普陀综合频道 
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 杭州余杭未来 
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 杭州余杭综合 
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 松阳综合频道 
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 武义新闻综合 
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8$720P
+#EXTINF:-1, Zhejiang Channel (浙江频道) 洞头综合频道 
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8$720P
+#EXTINF:-1, Zhejiang Channel (浙江频道) 浙江卫视 
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 浙江国际 
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 浙江少儿 
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 浙江教科影视 
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 浙江新闻 
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 浙江民生休闲 
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 浙江经济生活 
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 浙江钱江都市 
+http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 浙江钱江频道 
+http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+
+#EXTINF:-1, Zhejiang Channel (浙江频道) 湖州公共频道 
+http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+#EXTINF:-1, Zhejiang Channel (浙江频道) 湖州文化娱乐 
+http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+#EXTINF:-1, Zhejiang Channel (浙江频道) 湖州新闻综合 
+http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+#EXTINF:-1, Zhejiang Channel (浙江频道) 绍兴公共频道 
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 绍兴嵊州综合 
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 绍兴文化影视 
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 绍兴新闻综合 
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 舟山公共 
+http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=2027429366-f4515e585a0347f780a01c73ae293945-0-b3699e931cf04290680745e989c63d86
+#EXTINF:-1, Zhejiang Channel (浙江频道) 舟山新闻综合 
+http://play-sh13.quklive.com/live/1699001836208185.m3u8?auth_key=2027429324-c77bb6a7063c4cdea57f09ca22f9ef12-0-39c19a21f73b823db2150ea45b147eb2
+#EXTINF:-1, Zhejiang Channel (浙江频道) 萧山综合频道 
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 萧山综合频道 
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 衢江综合频道 
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 诸暨新闻综合 
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 象山新闻综合 
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 遂昌综合频道 
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 金华兰溪综合 
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 青田综合频道 
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 龙泉综合频道 
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 龙游新闻综合 
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1, Zhejiang Channel (浙江频道) 龙游生活娱乐 
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)8TV 
+http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)ANIMAX 
+http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)ANN-NEWS 
+http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)ASTROFOOTBALL 
+http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)ASTROUHD 
+http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)AXN 
+http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)CBNNEWS 
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)CHANNEL5 
+http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)CHANNEL8 
+http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)CHANNELU 
+http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)CINEMAX 
+http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)CNA-NEWS 
+http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)EUROSPORT1 
+http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)EUROSPORT2 
+http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)LOVE NATURE 
+http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)MOMOTV 
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)POPC 
+http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)ROCKACTION 
+http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)SKYSPORTF1 
+http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TAIWANPLUS 
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TNTSPORTS1 
+http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TNTSPORTS2 
+http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TNTSPORTS3 
+http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVBJ1 
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVBJ1 
+http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVBPLUS 
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVBPLUS 
+http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVBS 
+http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVBS新闻 
+http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVBS新闻台 
+http://api.mytv666.top/api/hk.php?id=6366366232313066623564653734326233383533656239343137313864626639267469643d77696e74763132332669643d3532
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVBS欢乐 
+http://61.216.11.93:49981/stream/channelid/1607444205?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB亚洲剧台 
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB娱乐新闻台 
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB娱乐新闻台 
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB娱乐新闻台 
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB无线新闻台 
+http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB无线新闻台 
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB星河 
+http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB星河 
+http://php.jdshipin.com/smt.php?id=Xinhe
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB星河 
+http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)TVB翡翠台 
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)tvN 
+http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)VIUTV 
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)VIUTV 
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)VIUTV 
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)东森新闻 
+http://api.mytv666.top/api/hk.php?id=6666323035643663343766316231356134636232653135646535333232336166267469643d77696e74763132332669643d3434
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)东森新闻台 
+http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)东森综合 
+https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)东森财经新闻台 
+http://api.mytv666.top/api/hk.php?id=3366353564656564303034623865343935613737356162393665633732633138267469643d77696e74763132332669643d3435
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)东森超视 
+http://61.216.11.93:49981/stream/channelid/1026178460?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)中天亚洲台 
+http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)中天新闻台 
+http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)中视新闻 
+http://api.mytv666.top/api/hk.php?id=6138663230386338366361363064623465353961333963373563343466316639267469643d77696e74763132332669643d3530
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)八大第一台 
+http://61.216.11.93:49981/stream/channelid/2021000694?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)八大综合台 
+http://61.216.11.93:49981/stream/channelid/1339557876?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)凤凰卫视中文台 
+http://j.s.bkpcp.top/js/fhzw
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)凤凰卫视中文台 
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)凤凰卫视中文台 
+http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)凤凰卫视资讯台 
+http://j.s.bkpcp.top/js/fhzx
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)凤凰卫视资讯台 
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)凤凰卫视资讯台 
+http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)凤凰卫视香港台 
+http://j.s.bkpcp.top/js/fhxg
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)凤凰卫视香港台 
+http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)千禧经典 
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)千禧经典 
+http://php.jdshipin.com/smt.php?id=Tvbclassic
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)千禧经典 
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)华丽翡翠台 
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)华丽翡翠台 
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)华视新闻 
+http://api.mytv666.top/api/hk.php?id=6261363335363330383638353961326461623131616231386263356433316265267469643d77696e74763132332669643d3531
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)台视新闻 
+http://api.mytv666.top/api/hk.php?id=3734336535623139656265303339663361646637333131663633363331653863267469643d77696e74763132332669643d3439
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)天映经典 
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)天映经典 
+http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)天映频道 
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)好莱坞电影 
+http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)寰宇新闻 
+http://api.mytv666.top/api/hk.php?id=3564653032633337613964616638353465646263396438356462316234373238267469643d77696e74763132332669643d3437
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)寰宇新闻台湾台 
+http://api.mytv666.top/api/hk.php?id=3264386336616633313438633165356234343633333835343932323730646666267469643d77696e74763132332669643d3438
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)年代MUCH 
+http://61.216.11.93:49981/stream/channelid/644357774?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)年代新闻 
+http://api.mytv666.top/api/hk.php?id=3666643635353637663833346366363536386431333931323061356464376332267469643d77696e74763132332669643d3436
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)无线新闻台 
+http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)日本NEWS24 
+http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)明珠剧集台 
+http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)明珠台 
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)明珠台 
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)明珠台 
+http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)民视 
+http://61.216.11.93:49981/stream/channelid/1736257299?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)民视 
+http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)民视第一台 
+http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)番薯电视台 
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)緯來綜合 
+http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)緯來電影 
+http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)美亞電影台 
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)美亞電影台 
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)美亞電影台 
+http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)翡翠剧集台 
+http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)翡翠台 
+http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)靖天国际 
+http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+#EXTINF:-1, Hong Kong Macao and Taiwan Channel (港澳台频道)黃金翡翠台 
+http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+
+#EXTINF:-1, Gansu Channel (甘肃频道) 天祝综合 
+http://play.kankanlive.com/live/1656487214793905.m3u8
+#EXTINF:-1, Gansu Channel (甘肃频道) 天祝综合 
+rtmp://play.kankanlive.com/live/1656487214793905
+#EXTINF:-1, Gansu Channel (甘肃频道) 永昌综合 
+http://play.kankanlive.com/live/1652755738635915.flv
+#EXTINF:-1, Gansu Channel (甘肃频道) 永昌综合 
+http://play.kankanlive.com/live/1652755738635915.m3u8
+#EXTINF:-1, Gansu Channel (甘肃频道) 永昌综合 
+rtmp://play.kankanlive.com/live/1652755738635915
+
+#EXTINF:-1, Gansu Channel (甘肃频道) 西和综合 
+http://play.kankanlive.com/live/1659926941626981.flv
+#EXTINF:-1, Gansu Channel (甘肃频道) 西和综合 
+rtmp://play.kankanlive.com/live/1659926941626981
+#EXTINF:-1, Fujian Channel (福建频道) 福建频道 
+#genre#
+#EXTINF:-1, Guizhou Channel (贵州频道) 七星关综合 
+https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
+#EXTINF:-1, Guizhou Channel (贵州频道) 七星关融媒 
+https://live.us.sinaimg.cn/001LSU8Gjx07KMe2Cb6L070d010007wB0k01.m3u8
+#EXTINF:-1, Guizhou Channel (贵州频道) 贵州频道 
+#genre#
+#EXTINF:-1, Guizhou Channel (贵州频道) 黔南一套 
+https://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
+#EXTINF:-1, Guizhou Channel (贵州频道) 黔南一套 
+rtmp://tv.qntv.net/channellive/ch1
+#EXTINF:-1, Guizhou Channel (贵州频道) 黔南二套 
+https://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
+#EXTINF:-1, Guizhou Channel (贵州频道) 黔南二套 
+rtmp://tv.qntv.net/channellive/ch2
+
+#EXTINF:-1, Shaanxi Channel (陕西频道) 乐家购物 
+http://tvplay.lejogo.com/sxtv6/cnwest.m3u8
+#EXTINF:-1, Shaanxi Channel (陕西频道) 西安丝路频道 
+https://xatv-yt.xiancity.cn/live/5/index.m3u8
+#EXTINF:-1, Shaanxi Channel (陕西频道) 西安商务资讯 
+https://xatv-yt.xiancity.cn/live/3/index.m3u8
+#EXTINF:-1, Shaanxi Channel (陕西频道) 西安戏剧影视 
+https://xatv-yt.xiancity.cn/live/4/index.m3u8
+#EXTINF:-1, Shaanxi Channel (陕西频道) 西安新闻综合 
+https://xatv-yt.xiancity.cn/live/1/index.m3u8
+#EXTINF:-1, Shaanxi Channel (陕西频道) 西安移动电视 
+https://xatv-yt.xiancity.cn/live/7/index.m3u8
+#EXTINF:-1, Shaanxi Channel (陕西频道) 西安都市频道 
+https://xatv-yt.xiancity.cn/live/2/index.m3u8
+
+#EXTINF:-1, Qinghai Channel (青海频道) 西宁新闻综合 
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1, Qinghai Channel (青海频道) 西宁生活服务 
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+
