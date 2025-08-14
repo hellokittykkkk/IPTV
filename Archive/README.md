@@ -20,6 +20,10 @@
 37.235.1.177
 84.200.69.80
 
+#  SmartDNS
+103.86.96.103
+103.86.99.103
+
 
 TiviMate - http://bit.ly/3S6j7sa
 Vysor
@@ -44,6 +48,7 @@ https://tinyurl.com/muz8dh8a
 https://raw.githubusercontent.com/hellokittykkkk/IPTV/refs/heads/main/cn2.playlist.cn.hk.mo.tw.m3u
 https://tinyurl.com/3xtkvk48
 
+!!!GOD
 https://raw.githubusercontent.com/hellokittykkkk/IPTV/refs/heads/main/cn3a.playlist.cn.hk.mo.tw.m3u
 https://tinyurl.com/msjdtkx3
 
