@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTVLCOPT:network-caching=1000
+
 #EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Entertainment",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="News",TVBS News (TVBS新聞台) [Geo-blocked]
@@ -25,7 +27,7 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1 tvg-id="",RTHK TV 36 (港台電視36) (1080p) [Geo-blocked]
 https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 #
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",凤凰资讯 (720p)
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",PhoenixInfoNewsChannel 凤凰资讯 (720p)
 http://php.17186.eu.org/phtv/fhzx.m3u8
 
 #EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="General",HKSTV
@@ -39,27 +41,27 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:0, TVBPLUS 
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:0, TVBS 新闻台 
+#EXTINF:0, TVBS News Channel 新闻台 
 http://api.mytv666.top/api/hk.php?id=6366366232313066623564653734326233383533656239343137313864626639267469643d77696e74763132332669643d3532
-#EXTINF:0, TVBS欢乐 
+#EXTINF:0, TVBS Joy 欢乐 
 http://61.216.11.93:49981/stream/channelid/1607444205?profile=webtv-h264-aac-mpegts
-#EXTINF:72, TVB 亚洲剧台 
+#EXTINF:72, TVB Asian Drama 亚洲剧台 
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:72, TVB 娱乐新闻台 
+#EXTINF:72, TVB Entertainment News Channel 娱乐新闻台 
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:100, TVB 娱乐新闻台 
+#EXTINF:100, TVB Entertainment News Channel 娱乐新闻台 
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:99, TVB 娱乐新闻台 
+#EXTINF:99, TVB Entertainment News Channel 娱乐新闻台 
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-#EXTINF:99, TVB 无线新闻台 
+#EXTINF:99, TVB News Channel 无线新闻台 
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:0, TVB 无线新闻台 
+#EXTINF:0, TVB News Channel 无线新闻台 
 http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
-#EXTINF:72, TVB 星河 
+#EXTINF:72, TVB Galaxy 星河 
 http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-#EXTINF:99, TVB 星河 
+#EXTINF:99, TVB Galaxy 星河 
 http://php.jdshipin.com/smt.php?id=Xinhe
-#EXTINF:102, TVB 翡翠台 
+#EXTINF:102, TVB Jade Channel 翡翠台 
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:100, VIUTV 
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
