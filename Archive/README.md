@@ -52,3 +52,6 @@ https://tinyurl.com/3xtkvk48
 https://raw.githubusercontent.com/hellokittykkkk/IPTV/refs/heads/main/cn3a.playlist.cn.hk.mo.tw.m3u
 https://tinyurl.com/msjdtkx3
 
+!!! Test
+https://raw.githubusercontent.com/hellokittykkkk/IPTV/refs/heads/main/hk.epg_test.m3u
+
