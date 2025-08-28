@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 
-#EXTVLCOPT:network-caching=600000
+#EXTVLCOPT:network-caching=6000000
 
 ### Hong Kong, SAR, China
 
