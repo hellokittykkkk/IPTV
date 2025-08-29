@@ -25,6 +25,32 @@
 103.86.99.103
 
 
+If you're looking for alternatives to Google DNS due to the ban in China, here are some commonly used public DNS servers:
+
+Cloudflare DNS
+- Primary: 1.1.1.1
+- Secondary: 1.0.0.1
+OpenDNS
+- Primary: 208.67.222.222
+- Secondary: 208.67.220.220
+Quad9
+- Primary: 9.9.9.9
+- Secondary: 149.112.112.112
+DNS.Watch
+- Primary: 84.200.69.80
+- Secondary: 84.200.70.40
+Yandex DNS (more commonly used in Russia but available elsewhere)
+- Primary: 77.88.8.8
+- Secondary: 77.88.8.1
+
+
+103.86.99.103
+103.86.96.103
+202.155.212.82
+223.6.6.150
+
+
+
 TiviMate - http://bit.ly/3S6j7sa
 Vysor
 
