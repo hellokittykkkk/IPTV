@@ -1,0 +1,460 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+
+#EXTINF:-1 tvg-name="115 New World Folk Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="Other",[BD]3 Movie Talk
+https://stream1.freetv.fun/3shuo-dian-ying-1.ctv
+#EXTINF:-1 tvg-name="115 New World Folk Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="Other",[BD]77 Movie Talk
+https://stream1.freetv.fun/77shuo-dian-ying-1.ctv
+#EXTINF:-1 tvg-name="115 New World Folk Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="Other",[HD]3030 Crosstalk and Sketches
+https://stream1.freetv.fun/3030xiang-sheng-xiao-pin-1.ctv
+#EXTINF:-1 tvg-name="115 New World Folk Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="Others",[SD]24h High-scoring Movies
+https://stream1.freetv.fun/24hgao-fen-dian-ying-1.ctv
+#EXTINF:-1 tvg-name="115 New World Folk Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="Other",[BD]taiwan plus[geo-blocked]
+https://stream1.freetv.fun/taiwan-plus-2.m3u8
+#EXTINF:-1 tvg-name="115 New World Folk Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="Other",[BD]B Station King of Glory
+https://stream1.freetv.fun/bzhan-wang-zhe-rong-yao-1.ctv
+#EXTINF:-1 tvg-name="AFN(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/09/21/large/20200921205351734473_48.png" group-title="Other",[BD]afn(tw) *s[geo-blocked]
+https://stream1.freetv.fun/afn--s-1.m3u8
+#EXTINF:-1 tvg-name="BBC Earth(tw)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg" group-title="Knowledge",[BD]BBC Earth
+https://stream1.freetv.fun/bbc-earth-14.m3u8
+#EXTINF:-1 tvg-name="BBC Earth(tw)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg" group-title="Knowledge",[BD]bbc Earth US
+https://stream1.freetv.fun/bbc-earth-us-1.m3u8
+#EXTINF:-1 tvg-name="BBC Earth(tw)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg" group-title="Knowledge",[BD]ช่อง bbc earth
+https://stream1.freetv.fun/ch-ng-bbc-earth-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]tennis channel
+https://stream1.freetv.fun/tennis-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[VGA]light channel
+https://stream1.freetv.fun/light-channel-4.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]tribeca channel
+https://stream1.freetv.fun/tribeca-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[VGA]akaal channel
+https://stream1.freetv.fun/akaal-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]light channel
+https://stream1.freetv.fun/light-channel-3.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[VGA]expo channel[geo-blocked]
+https://stream1.freetv.fun/expo-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]eman channel
+https://stream1.freetv.fun/eman-channel-2.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]lego channel[geo-blocked]
+https://stream1.freetv.fun/lego-channel-1.ctv
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]tennis channel
+https://stream1.freetv.fun/tennis-channel-4.ctv
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]mo channel
+https://stream1.freetv.fun/mo-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]pursuit channel
+https://stream1.freetv.fun/pursuit-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]rama channel
+https://stream1.freetv.fun/rama-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]stou channel
+https://stream1.freetv.fun/stou-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]kqsl channel 8
+https://stream1.freetv.fun/kqsl-channel-8-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]channel 11
+https://stream1.freetv.fun/channel-11-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]cable channel 37
+https://stream1.freetv.fun/cable-channel-37-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]cool channel
+https://stream1.freetv.fun/cool-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]xplore channel
+https://stream1.freetv.fun/xplore-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]bike channel
+https://stream1.freetv.fun/bike-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]sakala channel
+https://stream1.freetv.fun/sakala-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]channel ginga
+https://stream1.freetv.fun/channel-ginga-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]channel ginga[geo-blocked]
+https://stream1.freetv.fun/channel-ginga-3.ctv
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]maya channel
+https://stream1.freetv.fun/maya-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]green channel
+https://stream1.freetv.fun/green-channel-2.ctv
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]tabi channel[geo-blocked]
+https://stream1.freetv.fun/tabi-channel-1.ctv
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]channel 11
+https://stream1.freetv.fun/channel-11-2.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[VGA]channel eye
+https://stream1.freetv.fun/channel-eye-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]maya channel
+https://stream1.freetv.fun/maya-channel-2.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[VGA]cfm tv channel 98 (360p)
+https://stream1.freetv.fun/cfm-tv-channel-98-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]tennis channel
+https://stream1.freetv.fun/tennis-channel-2.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]expo channel (360p)[geo-blocked]
+https://stream1.freetv.fun/expo-channel-2.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]lego channel (1080p)[geo-blocked]
+https://stream1.freetv.fun/lego-channel-2.ctv
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]kartoon channel
+https://stream1.freetv.fun/kartoon-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]tribeca channel [geo-blocked]
+https://stream1.freetv.fun/tribeca-channel-2.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[HD]tempe channel 11
+https://stream1.freetv.fun/tempe-channel-11-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[VGA]fx movie channel (720p)
+https://stream1.freetv.fun/fx-movie-channel-1.ctv
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]channel eye (360p)
+https://stream1.freetv.fun/channel-eye-2.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]channel 11 (scottsdale az)
+https://stream1.freetv.fun/channel-11-3.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]eman channel (576p)
+https://stream1.freetv.fun/eman-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]akaal channel (396p) [geo-blocked]
+https://stream1.freetv.fun/akaal-channel-3.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]kartoon channel
+https://stream1.freetv.fun/kartoon-channel-3.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]go-tv channel
+https://stream1.freetv.fun/go-tv-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]golf channel =
+https://stream1.freetv.fun/golf-channel-2.ctv
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[SD]pursuit channel
+https://stream1.freetv.fun/pursuit-channel-2.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]kartoon channel
+https://stream1.freetv.fun/kartoon-channel-2.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[BD]white channel
+https://stream1.freetv.fun/white-channel-1.m3u8
+#EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="Music",[VGA]light channel
+https://stream1.freetv.fun/light-channel-1.m3u8
+#EXTINF:-1 tvg-name="CMusic" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090457244729_96.png" group-title="Variety Show",[HD]4music
+https://stream1.freetv.fun/4music-1.m3u8
+#EXTINF:-1 tvg-name="CMusic" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090457244729_96.png" group-title="Variety Show",[HD]4music
+https://stream1.freetv.fun/4music-2.m3u8
+#EXTINF:-1 tvg-name="CMusic" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090457244729_96.png" group-title="Variety Show",[HD]qmusic
+https://stream1.freetv.fun/qmusic-1.m3u8
+#EXTINF:-1 tvg-name="CTV CHANNEL" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/1_85.jpg" group-title="Other",[HD]ca ctv comedy channel
+https://stream1.freetv.fun/ca-ctv-comedy-channel-1.ctv
+#EXTINF:-1 tvg-name="CTV CHANNEL" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/1_85.jpg" group-title="Other",[HD]ca ctv drama channel
+https://stream1.freetv.fun/ca-ctv-drama-channel-1.ctv
+#EXTINF:-1 tvg-name="DAZN 1(TW)" tvg-id="456576" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png" group-title="Sports",[HD]dazn1[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-name="DAZN 1(TW)" tvg-id="456576" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png" group-title="Sports",[HD]dazn ringside
+https://stream1.freetv.fun/dazn-ringside-2.m3u8
+#EXTINF:-1 tvg-name="DAZN 1(TW)" tvg-id="456576" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png" group-title="Sports",[SD]dazn combat (1080p)
+https://stream1.freetv.fun/dazn-combat-2.m3u8
+#EXTINF:-1 tvg-name="DAZN 1(TW)" tvg-id="456576" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png" group-title="Sports",[BD]dazn combat
+https://stream1.freetv.fun/dazn-combat-1.m3u8
+#EXTINF:-1 tvg-name="DAZN 1(TW)" tvg-id="456576" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png" group-title="Sports",[BD]dazn ringside
+https://stream1.freetv.fun/dazn-ringside-1.m3u8
+#EXTINF:-1 tvg-name="DAZN 2(TW)" tvg-id="460936" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424025006167243_40.png" group-title="Sports",[HD]dazn 2[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-name="DAZN 2(TW)" tvg-id="460936" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424025006167243_40.png" group-title="Sports",[BD]dazn 2
+https://stream1.freetv.fun/dazn-2-3.ctv
+#EXTINF:-1 tvg-name="Discovery(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png" group-title="Knowledge",[BD]discovery ID
+https://stream1.freetv.fun/discovery-id-4.m3u8
+#EXTINF:-1 tvg-name="Discovery(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png" group-title="Knowledge",[BD]discovery hh
+https://stream1.freetv.fun/discovery-hh-3.ctv
+#EXTINF:-1 tvg-name="Discovery(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png" group-title="Knowledge",[BD]discovery(tw) *s[geo-blocked]
+https://stream1.freetv.fun/discovery--s-1.m3u8
+#EXTINF:-1 tvg-name="Discovery(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png" group-title="Knowledge",[HD]asharq discovery
+https://stream1.freetv.fun/asharq-discovery-4.m3u8
+#EXTINF:-1 tvg-name="ELTA Sports 3 (Backup)" tvg-id="460899" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055421788601_18.png" group-title="Sports",[BD]cctv-4k[geo-blocked]
+https://stream1.freetv.fun/cctv-4k-1.ctv
+#EXTINF:-1 tvg-name="ELTA Sports 4 (Backup)" tvg-id="457246" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="Sports",[HD]delta tv
+https://stream1.freetv.fun/delta-tv-3.m3u8
+#EXTINF:-1 tvg-name="Food Network(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="Other",[HD]food network
+https://stream1.freetv.fun/food-network-8.m3u8
+#EXTINF:-1 tvg-name="Food Network(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="Other",[BD]food network[geo-blocked]
+https://stream1.freetv.fun/food-network-4.m3u8
+#EXTINF:-1 tvg-name="Food Network(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="Other",[BD]food network(tw) *s[geo-blocked]
+https://stream1.freetv.fun/food-network--s-1.m3u8
+#EXTINF:-1 tvg-name="Food Network(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="Other",[HD]ช่อง food network
+https://stream1.freetv.fun/ch-ng-food-network-3.m3u8
+#EXTINF:-1 tvg-name="Food Network(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="Other",[SD]food network *m[geo-blocked]
+https://stream1.freetv.fun/food-network--m-1.ctv
+#EXTINF:-1 tvg-name="HGTV(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/08/20/large/20170820230629325523_98.png" group-title="Knowledge",[HD]ช่อง hgtv
+https://stream1.freetv.fun/ch-ng-hgtv-1.m3u8
+#EXTINF:-1 tvg-name="HGTV(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/08/20/large/20170820230629325523_98.png" group-title="Knowledge",[HD]ca hgtv
+https://stream1.freetv.fun/ca-hgtv-1.ctv
+#EXTINF:-1 tvg-name="HGTV(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/08/20/large/20170820230629325523_98.png" group-title="Knowledge",[BD]us hgtv
+https://stream1.freetv.fun/us-hgtv-1.ctv
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="电影",[BD]hollywood
+https://stream1.freetv.fun/hollywood-2.m3u8
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="电影",[BD]young hollywood
+https://stream1.freetv.fun/young-hollywood-1.m3u8
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="电影",[SD]young hollywood [geo-blocked]
+https://stream1.freetv.fun/young-hollywood-4.m3u8
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="电影",[SD]made in hollywood
+https://stream1.freetv.fun/made-in-hollywood-1.m3u8
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="电影",[HD]made in hollywood
+https://stream1.freetv.fun/made-in-hollywood-2.m3u8
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="电影",[SD]hollywood
+https://stream1.freetv.fun/hollywood-5.m3u8
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="电影",[BD]young hollywood
+https://stream1.freetv.fun/young-hollywood-3.m3u8
+#EXTINF:-1 tvg-name="Lifetime(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png" group-title="Variety Show",[HD]lifetime east
+https://stream1.freetv.fun/lifetime-east-2.m3u8
+#EXTINF:-1 tvg-name="Lifetime(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png" group-title="Variety Show",[HD]time line
+https://stream1.freetv.fun/time-line-1.m3u8
+#EXTINF:-1 tvg-name="Lifetime(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png" group-title="Variety Show",[HD]ช่อง lifetime
+https://stream1.freetv.fun/ch-ng-lifetime-2.m3u8
+#EXTINF:-1 tvg-name="Lifetime(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png" group-title="Variety Show",[SD]lifetime(tw)---
+https://stream1.freetv.fun/lifetime-10.ctv
+#EXTINF:-1 tvg-name="Lifetime(TW)" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png" group-title="Variety Show",[SD]lifetime(tw)--
+https://stream1.freetv.fun/lifetime-5.ctv
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="Knowledge",[BD]love nature
+https://stream1.freetv.fun/love-nature-14.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="Knowledge",[HD]love nature uhd *m[geo-blocked]
+https://stream1.freetv.fun/love-nature-uhd--m-1.ctv
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="Knowledge",[SD]love nature (720p) [geo-blocked]
+https://stream1.freetv.fun/love-nature-19.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="Knowledge",[BD]love nature
+https://stream1.freetv.fun/love-nature-6.m3u8
+#EXTINF:-1 tvg-name="MEZZO LIVE(TW)" tvg-id="370197" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814094908863860_80.png" group-title="Music",[BD]mezzo live
+https://stream1.freetv.fun/mezzo-live-8.ctv
+#EXTINF:-1 tvg-name="MOMO Comprehensive Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223019453563_65.png" group-title="Comprehensive",[HD]momo Comprehensive[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-name="NICE TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2020/10/01/large/20201001123754394603_13.png" group-title="Other",[BD]unife tv
+https://stream1.freetv.fun/unife-tv-1.m3u8
+#EXTINF:-1 tvg-name="Next TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png" group-title="News",[SD]fuji tv next
+https://stream1.freetv.fun/fuji-tv-next-3.m3u8
+#EXTINF:-1 tvg-name="Next TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png" group-title="News",[SD]fuji tv next
+https://stream1.freetv.fun/fuji-tv-next-1.ctv
+#EXTINF:-1 tvg-name="PET CLUB TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png" group-title="Other",[BD]pet club tv
+https://stream1.freetv.fun/pet-club-tv-1.m3u8
+#EXTINF:-1 tvg-name="PET CLUB TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png" group-title="Other",[BD]ช่อง pet club
+https://stream1.freetv.fun/ch-ng-pet-club-1.m3u8
+#EXTINF:-1 tvg-name="PET CLUB TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png" group-title="Other",[BD]pet club tv
+https://stream1.freetv.fun/pet-club-tv-2.m3u8
+#EXTINF:-1 tvg-name="SMART Knowledge Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2020/02/21/large/20200221060157435152_28.png" group-title="Others",[BD]smart knowledge
+https://stream1.freetv.fun/smartzhi-shi-1.ctv
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-country="Taiwan" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg" group-title="Knowledge",[HD]smithsonian channel east
+https://stream1.freetv.fun/smithsonian-channel-east-1.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-country="Taiwan" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg" group-title="Knowledge",[SD]smithsonian channel selects
+https://stream1.freetv.fun/smithsonian-channel-selects-2.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg" group-title="Knowledge",[HD]ca Smithsonian Channel
+https://stream1.freetv.fun/ca-smithsonian-channel-1.ctv
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg" group-title="Knowledge",[SD]smithsonian channel =
+https://stream1.freetv.fun/smithsonian-channel-3.ctv
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-country="Taiwan" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg" group-title="Knowledge",[SD]smithsonian channel ==[geo-blocked]
+https://stream1.freetv.fun/smithsonian-channel-2.ctv
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-country="Taiwan" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg" group-title="Knowledge",[HD]smithsonian channel selects
+https://stream1.freetv.fun/smithsonian-channel-selects-1.m3u8
+#EXTINF:-1 tvg-name="Star Movies Gold" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425163927207256_43.png" group-title="电影",[HD]gold star
+https://stream1.freetv.fun/gold-star-1.m3u8
+#EXTINF:-1 tvg-name="Star Movies TW" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/28/large/20220428143809984195_35.png" group-title="电影",[BD]star movies select
+https://stream1.freetv.fun/star-movies-select-1.ctv
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-id="3509" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="General",[BD]tvbs asia
+https://stream1.freetv.fun/tvbs-asia-6.m3u8
+#EXTINF:-1 tvg-name="TVBS News" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922145019289857_16.png" group-title="News",[HD]tvbs news[geo-blocked]
+https://stream1.freetv.fun/tvbs-news-1.m3u8
+#EXTINF:-1 tvg-name="Taiwan Plus" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155629392519_70.jpg" group-title="News",[BD]taiwan plus tv[geo-blocked]
+https://stream1.freetv.fun/taiwan-plus-tv-1.m3u8
+#EXTINF:-1 tvg-name="Taiwan Plus" tvg-id="" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155629392519_70.jpg" group-title="News",[SD]taiwan plus
+https://stream1.freetv.fun/taiwan-plus-1.m3u8
+#EXTINF:-1 tvg-name="rollor" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/12/31/20171231124736667453_34.png" group-title="Comprehensive",[BD]roll
+https://stream1.freetv.fun/roll-1.m3u8
+#EXTINF:-1 tvg-name="Sanli News" tvg-id="456555" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png" group-title="News",[BD]Sanli News[geo-blocked]
+https://stream1.freetv.fun/san-li-xin-wen-4.ctv
+#EXTINF:-1 tvg-name="Sanlih Taiwan Channel" tvg-id="456529" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721172357360661_85.png" group-title="Comprehensive",[BD]Sanlih Taiwan Channel[geo-blocked]
+https://stream1.freetv.fun/san-li-tai-wan-4.ctv
+#EXTINF:-1 tvg-name="CTT HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114210645647968_28.jpg" group-title="Variety Show",[HD]CTT[geo-blocked]
+https://stream1.freetv.fun/zhong-tian-yu-le-2.m3u8
+#EXTINF:-1 tvg-name="CTI News Channel 2" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720202416866497_70.png" group-title="News",[VGA]CTI News Channel 2[geo-blocked]
+rtmp://123.161.179.74/live/yifatv-ztxw02
+#EXTINF:-1 tvg-name="CTI News FHD" tvg-id="370177" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305151207450324_69.png" group-title="News",[BD]CTI News[geo-blocked]
+rtmp://123.161.179.74/live/yifatv-ztxw01
+#EXTINF:-1 tvg-name="CTiTV News FHD" tvg-id="370177" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305151207450324_69.png" group-title="News",[HD]CTiTV News
+https://stream1.freetv.fun/zhong-tian-xin-wen-10.ctv
+#EXTINF:-1 tvg-name="CTI News FHD" tvg-id="370177" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305151207450324_69.png" group-title="News",[BD]CTI News[geo-blocked]
+https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
+#EXTINF:-1 tvg-name="CTV" tvg-id="370141" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png" group-title="Comprehensive",[BD]CTV
+https://stream1.freetv.fun/zhong-shi-8.ctv
+#EXTINF:-1 tvg-name="CTV HD" tvg-id="460779" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055838912553_80.png" group-title="Comprehensive",[HD]CTV[geo-blocked]
+rtmp://f13h.mine.nu:1935/sat/tv091
+#EXTINF:-1 tvg-name="CTV HD" tvg-id="460779" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055838912553_80.png" group-title="Comprehensive",[BD]CTV
+https://stream1.freetv.fun/zhong-shi-7.ctv
+#EXTINF:-1 tvg-name="CTV HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126214137329410_57.jpg" group-title="Comprehensive",[HD]CTV[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-name="CTV News FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221833273953_43.jpg" group-title="News",[BD]CTV News
+https://stream1.freetv.fun/zhong-shi-xin-wen-9.ctv
+#EXTINF:-1 tvg-name="CTV Classics" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221628321961_26.jpg" group-title="Comprehensive",[BD]CTV Classics
+https://stream1.freetv.fun/zhong-shi-jing-dian-5.ctv
+#EXTINF:-1 tvg-name="CTV Classics" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221628321961_26.jpg" group-title="Comprehensive",[BD]CTV Classics
+https://stream1.freetv.fun/zhong-shi-jing-dian-1.ctv
+#EXTINF:-1 tvg-name="CTV Elite Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2021/12/28/large/20211228171426835864_33.png" group-title="Comprehensive",[BD]CTV Elite
+https://stream1.freetv.fun/zhong-shi-jing-cai-3.ctv
+#EXTINF:-1 tvg-name="CTV Elite Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2021/12/28/large/20211228171426835864_33.png" group-title="Comprehensive",[BD]CTV Elite
+https://stream1.freetv.fun/zhong-shi-jing-cai-5.ctv
+#EXTINF:-1 tvg-name="Humanity TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="Others",[HD]Humanity TV
+https://stream1.freetv.fun/ren-jian-wei-shi-3.m3u8
+#EXTINF:-1 tvg-name="Humanity TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="Others",[HD]Humanity TV
+https://stream1.freetv.fun/ren-jian-wei-shi-5.m3u8
+#EXTINF:-1 tvg-name="Humanity TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="Others",[HD]Humanity TV
+https://stream1.freetv.fun/ren-jian-wei-shi-7.ctv
+#EXTINF:-1 tvg-name="Humanity TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="Others",[HD]Humanity TV
+https://stream1.freetv.fun/ren-jian-wei-shi-6.m3u8
+#EXTINF:-1 tvg-name="Humanity TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="Others",[HD]Humanity TV
+https://stream1.freetv.fun/ren-jian-wei-shi-11.m3u8
+#EXTINF:-1 tvg-name="Humanity TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="Others",[HD]Humanity TV
+https://stream1.freetv.fun/ren-jian-wei-shi-9.m3u8
+#EXTINF:-1 tvg-name="Humanity TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="Others",[HD]Humanity TV
+https://stream1.freetv.fun/ren-jian-wei-shi-10.ctv
+#EXTINF:-1 tvg-name="Eight Major Variety Shows" tvg-id="370146" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/12/07/large/20231207033636715896_75.png" group-title="Comprehensive",[BD]Eight Major Variety Shows
+https://stream1.freetv.fun/ba-da-zong-yi-3.ctv
+#EXTINF:-1 tvg-name="Public Television HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724132219452361_49.png" group-title="Comprehensive",[BD]Public Television
+https://stream1.freetv.fun/xiao-gong-shi-1.ctv
+#EXTINF:-1 tvg-name="Public Television HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724132219452361_49.png" group-title="Comprehensive",[BD] Public Television
+https://stream1.freetv.fun/gong-shi-2.ctv
+#EXTINF:-1 tvg-name="Public Television (Taiwanese)" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724132459650801_84.png" group-title="General",[BD] Public Television (Taiwanese)
+https://stream1.freetv.fun/gong-shi-tai-yu-2.ctv
+#EXTINF:-1 tvg-name="Aboriginal TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711214934958973_74.png" group-title="Comprehensive",[BD]Aboriginal TV
+https://stream1.freetv.fun/yuan-zhu-min-wei-shi-1.ctv
+#EXTINF:-1 tvg-name="TTV HD" tvg-id="460808" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092817835507_62.png" group-title="General",[HD]TTV[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name="TTV HD" tvg-id="460808" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092817835507_62.png" group-title="Comprehensive",[BD]TTV
+https://stream1.freetv.fun/tai-shi-5.ctv
+#EXTINF:-1 tvg-name="TTV HD" tvg-id="460808" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092817835507_62.png" group-title="General",[HD]TTV[geo-blocked]
+rtmp://f13h.mine.nu:1935/sat/tv071
+#EXTINF:-1 tvg-name="TTV HD" tvg-id="460808" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092817835507_62.png" group-title="Comprehensive",[BD]TTV
+https://stream1.freetv.fun/tai-shi-10.ctv
+#EXTINF:-1 tvg-name="TTV HD" tvg-id="460808" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092817835507_62.png" group-title="Comprehensive",[BD]TTV
+https://stream1.freetv.fun/tai-shi-9.ctv
+#EXTINF:-1 tvg-name="TTV News FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724094914581648_75.png" group-title="News",[BD]TTV News
+https://stream1.freetv.fun/tai-shi-xin-wen-3.m3u8
+#EXTINF:-1 tvg-name="TTV News FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724094914581648_75.png" group-title="News",[BD]TTV News
+https://stream1.freetv.fun/tai-shi-xin-wen-2.ctv
+#EXTINF:-1 tvg-name="TTV News FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724094914581648_75.png" group-title="News",[BD]TTV News
+https://stream1.freetv.fun/tai-shi-xin-wen-8.ctv
+#EXTINF:-1 tvg-name="TTV News FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724094914581648_75.png" group-title="News",[BD]TTV News
+https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8
+#EXTINF:-1 tvg-name="TTV News FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724094914581648_75.png" group-title="News",[BD]TTV News
+https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8
+#EXTINF:-1 tvg-name="Weixin TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512231926730574_47.jpg" group-title="Others",[VGA]Weixin TV
+https://stream1.freetv.fun/wei-xin-dian-shi-5.m3u8
+#EXTINF:-1 tvg-name="Congress Channel 1" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513171825260672_88.jpg" group-title="Comprehensive",[BD]Congress 1
+https://stream1.freetv.fun/guo-hui--1-4.ctv
+#EXTINF:-1 tvg-name="Congress Channel 2" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513171909653190_67.jpg" group-title="Comprehensive",[BD]Congress 2
+https://stream1.freetv.fun/guo-hui--2-3.ctv
+#EXTINF:-1 tvg-name="Hakka TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235131193152_90.png" group-title="Comprehensive",[BD]Hakka TV
+https://stream1.freetv.fun/ke-jia-dian-shi-3.ctv
+#EXTINF:-1 tvg-name="Huanyu News Taiwan" tvg-id="460871" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724134538350977_27.png" group-title="News",[BD]Huanyu News Taiwan
+https://stream1.freetv.fun/huan-yu-xin-wen-tai-wan-2.ctv
+#EXTINF:-1 tvg-name="Huanyu Finance" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210902132399_36.png" group-title="News",[BD]Huanyu Finance
+https://stream1.freetv.fun/huan-yu-cai-jing-2.ctv
+#EXTINF:-1 tvg-name="Jackie Chan Album" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405221540697725_47.jpg" group-title="Movies",[SD]Jackie Chan[geo-blocked]
+https://stream1.freetv.fun/cheng-long-1.m3u8
+#EXTINF:-1 tvg-name="Jackie Chan Album" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405221540697725_47.jpg" group-title="Movies",[SD]Jackie Chan[geo-blocked]
+https://stream1.freetv.fun/cheng-long-2.m3u8
+#EXTINF:-1 tvg-name="Fashion Sports X" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222534937410_51.png" group-title="Sports",[BD]Fashion Sports x
+https://stream1.freetv.fun/shi-shang-yun-dong-x-1.ctv
+#EXTINF:-1 tvg-name="Chilin Sports" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510161417649264_37.jpg" group-title="Sports",[BD]Chilin Sports
+https://stream1.freetv.fun/zhi-lin-ti-yu-2.ctv
+#EXTINF:-1 tvg-name="ETtoday Asia News" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/17/20180217150650283018_64.jpg" group-title="News",[HD]Asia News
+https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8
+#EXTINF:-1 tvg-name="Eastern General" tvg-id="460830" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105831030948_83.png" group-title="General",[BD]Eastern General[geo-blocked]
+https://stream1.freetv.fun/dong-sen-zong-he-4.ctv
+#EXTINF:-1 tvg-name="Eastern General" tvg-id="460830" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105831030948_83.png" group-title="General",[BD]Eastern General[geo-blocked]
+https://stream1.freetv.fun/dong-sen-zong-he-1.ctv
+#EXTINF:-1 tvg-name="Eastern America" ​​tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023212524554784_66.jpg" group-title="Comprehensive",[BD]Eastern America
+https://stream1.freetv.fun/dong-sen-mei-zhou-3.m3u8
+#EXTINF:-1 tvg-name="Eastern America" ​​tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023212524554784_66.jpg" group-title="Comprehensive",[BD]Eastern America 2
+https://stream1.freetv.fun/dong-sen-mei-zhou-2-1.m3u8
+#EXTINF:-1 tvg-name="ETTV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/08/large/20220308133519318409_56.jpg" group-title="Comprehensive",[BD]ETTV America News
+https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
+#EXTINF:-1 tvg-name="Eastern Super TV" tvg-id="456533" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="Comprehensive",[BD]Eastern Super TV
+https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
+#EXTINF:-1 tvg-name="Eastern Super TV" tvg-id="456533" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="Comprehensive",[BD]Eastern Super TV[geo-blocked]
+https://stream1.freetv.fun/dong-sen-chao-shi-11.ctv
+#EXTINF:-1 tvg-name="Eastern Super TV" tvg-id="456533" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="Comprehensive",[BD]Eastern Super TV
+https://stream1.freetv.fun/dong-sen-chao-shi-3.m3u8
+#EXTINF:-1 tvg-name="ETTV" tvg-id="456533" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="Comprehensive",[HD]ETTV[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="ETTV" tvg-id="456533" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="Comprehensive",[HD]ETTV[geo-blocked]
+rtmp://f13h.mine.nu:1935/sat/tv331
+#EXTINF:-1 tvg-name="Eastern Super TV" tvg-id="456533" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="Comprehensive",[BD]Eastern Super TV[geo-blocked]
+https://stream1.freetv.fun/dong-sen-chao-shi-1.ctv
+#EXTINF:-1 tvg-name="Eastern Super TV" tvg-id="456533" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="Comprehensive",[BD]Eastern Super TV
+https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
+#EXTINF:-1 tvg-name="ETTV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126212025462229_58.jpg" group-title="Comprehensive",[BD]ETTV 34.5
+https://stream1.freetv.fun/dong-sen-chao-shi-34-5-1.m3u8
+#EXTINF:-1 tvg-name="Eastern Films" tvg-id="460776" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105858673463_13.png" group-title="Movies",[BD]Eastern Films[geo-blocked]
+https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
+#EXTINF:-1 tvg-name="FTV HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724151437383611_37.png" group-title="General",[HD]FTV[geo-blocked]
+rtmp://f13h.mine.nu:1935/sat/tv051
+#EXTINF:-1 tvg-name="FTV HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724151437383611_37.png" group-title="Comprehensive",[BD]FTV
+https://stream1.freetv.fun/min-shi-1.ctv
+#EXTINF:-1 tvg-name="FTV News HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152553016179_83.png" group-title="News",[BD]FTV News
+https://stream1.freetv.fun/min-shi-xin-wen-4.ctv
+#EXTINF:-1 tvg-name="FTV News HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152553016179_83.png" group-title="News",[BD]FTV News
+https://stream1.freetv.fun/min-shi-xin-wen-8.ctv
+#EXTINF:-1 tvg-name="FTV News HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152553016179_83.png" group-title="News",[BD]FTV News
+https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8
+#EXTINF:-1 tvg-name="FTV News HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152553016179_83.png" group-title="News",[BD]FTV News
+https://stream1.freetv.fun/min-shi-xin-wen-16.m3u8
+#EXTINF:-1 tvg-name="FTV News HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152553016179_83.png" group-title="News",[BD]FTV News[geo-blocked]
+https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
+#EXTINF:-1 tvg-name="FTV One" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152902808091_16.png" group-title="Comprehensive",[BD]FTV One
+https://stream1.freetv.fun/min-shi-di-yi-1.ctv
+#EXTINF:-1 tvg-name="FTV Taiwan" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724151611469778_92.png" group-title="Comprehensive",[BD]FTV Taiwan
+https://stream1.freetv.fun/min-shi-tai-wan-7.ctv
+#EXTINF:-1 tvg-name="Videoland Japan" tvg-id="" tvg-country="Taiwan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126210817982613_24.jpg" group-title="Variety Show",[HD]Videoland Japan[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-name="Videoland Highlights" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/08/18/large/20240818065801909180_50.png" group-title="General",[HD]Videoland Highlights[geo-blocked]
+https://stream1.freetv.fun/wei-lai-jing-cai-1.m3u8
+#EXTINF:-1 tvg-name="Videoland Entertainment" tvg-id="456572" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722124851344289_73.png" group-title="General",[HD]Videoland Entertainment[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-name="Videoland Entertainment" tvg-id="456572" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722124851344289_73.png" group-title="General",[BD]Videoland Entertainment[geo-blocked]
+https://stream1.freetv.fun/wei-lai-yu-le-2.ctv
+#EXTINF:-1 tvg-name="Videoland Sports" tvg-id="456575" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="Sports",[HD]Videoland Sports[geo-blocked]
+rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1 tvg-name="Videoland Sports" tvg-id="456575" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="Sports",[HD]Videoland Sports
+https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
+#EXTINF:-1 tvg-name="Videoland Sports" tvg-id="456575" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="Sports",[HD]Videoland Sports[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name="Taiwan Drama Channel" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222715150771_24.png" group-title="Movies",[BD]Taiwan Drama
+https://stream1.freetv.fun/tai-wan-xi-ju-4.ctv
+#EXTINF:-1 tvg-name="TTV News" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="News",[BD]TTV News
+https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8
+#EXTINF:-1 tvg-name="TTV News" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="News",[BD]TTV News
+https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
+#EXTINF:-1 tvg-name="TTV News" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="News",[BD]TTV News
+https://stream1.freetv.fun/tai-shi-xin-wen-21.m3u8
+#EXTINF:-1 tvg-name="TTV General" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/10/07/large/20231007173906735735_65.png" group-title="General",[BD]TTV General
+https://stream1.freetv.fun/tai-shi-zong-he-1.ctv
+#EXTINF:-1 tvg-name="TTV Finance" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114205737775986_67.jpg" group-title="News",[BD]TTV Finance
+https://stream1.freetv.fun/tai-shi-cai-jing-4.ctv
+#EXTINF:-1 tvg-name="TTV Finance" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114205737775986_67.jpg" group-title="News",[BD]TTV Finance
+https://stream1.freetv.fun/tai-shi-cai-jing-2.ctv
+#EXTINF:-1 tvg-name="CTS" tvg-id="370143" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg" group-title="Comprehensive",[BD]CTS
+https://stream1.freetv.fun/hua-shi-7.ctv
+#EXTINF:-1 tvg-name="CTS HD" tvg-id="370143" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2016/12/24/large/20161224233801697871_73.jpg" group-title="Comprehensive",[HD]CTS[geo-blocked]
+rtmp://f13h.mine.nu:1935/sat/tv111
+#EXTINF:-1 tvg-name="CTS HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164257585081_80.png" group-title="Comprehensive",[HD]CTS[geo-blocked]
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-name="CTS HD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164257585081_80.png" group-title="Comprehensive",[HD]CTS
+https://stream1.freetv.fun/hua-shi-5.ctv
+#EXTINF:-1 tvg-name="CTS Education and Culture" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311004339137241_37.png" group-title="Comprehensive",[BD] CTS Education, Sports and Culture
+https://stream1.freetv.fun/hua-shi-jiao-yu-ti-yu-wen-hua-1.ctv
+#EXTINF:-1 tvg-name="CTS News FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718001252593456_95.jpg" group-title="News",[BD]CTS News
+https://stream1.freetv.fun/hua-shi-xin-wen-2.ctv
+#EXTINF:-1 tvg-name="CTS News FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718001252593456_95.jpg" group-title="News",[BD]CTS News
+https://stream1.freetv.fun/hua-shi-xin-wen-4.ctv
+#EXTINF:-1 tvg-name="CTS News FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718001252593456_95.jpg" group-title="News",[BD]CTS News
+https://stream1.freetv.fun/hua-shi-xin-wen-3.ctv
+#EXTINF:-1 tvg-name="Zhu Geliang Cabaret Show" tvg-id="370186" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/10/22/large/20241022022602435323_42.jpg" group-title="Variety Show",[BD]Zhu Geliang Cabaret Show
+https://stream1.freetv.fun/zhu-ge-liang-ge-ting-xiu-1.ctv
+#EXTINF:-1 tvg-name="Cai Chang Film and TV" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/08/03/large/20220803165226227722_22.jpg" group-title="Movies",[BD] Cai Chang Film and TV
+https://stream1.freetv.fun/cai-chang-ying-ju-4.ctv
+#EXTINF:-1 tvg-name="Mirror News" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605011449264065_58.jpg" group-title="News",[BD]Mirror News
+https://stream1.freetv.fun/jing-xin-wen-2.ctv
+#EXTINF:-1 tvg-name="Jingtian Japan" tvg-id="" tvg-country="Taiwan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211326607261_29.png" group-title="电影",[BD]Jingtian Japan
+https://stream1.freetv.fun/jing-tian-ri-ben-4.ctv
+#EXTINF:-1 tvg-name="Jingtian Film" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211824734749_31.png" group-title="Movies",[BD]Jingtian Film[geo-blocked]
+https://stream1.freetv.fun/jing-tian-ying-hua-1.ctv
+#EXTINF:-1 tvg-name="Jingtian Film" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211824734749_31.png" group-title="Movies",[BD]Jingtian Film[geo-blocked]
+https://stream1.freetv.fun/jing-tian-ying-hua-3.ctv
+#EXTINF:-1 tvg-name="Jingtian Comprehensive" tvg-id="370150" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211628838481_19.png" group-title="Comprehensive",[BD]Jingtian Comprehensive
+https://stream1.freetv.fun/jing-tian-zong-he-1.ctv
+#EXTINF:-1 tvg-name="Jingtian News" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211439196918_86.png" group-title="News",[BD]Jingtian News[geo-blocked]
+https://stream1.freetv.fun/jing-tian-zi-xun-4.ctv
+#EXTINF:-1 tvg-name="Jingtian News" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211439196918_86.png" group-title="News",[BD]Jingtian News[geo-blocked]
+https://stream1.freetv.fun/jing-tian-zi-xun-3.ctv
+#EXTINF:-1 tvg-name="Jingtian News" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211439196918_86.png" group-title="News",[BD]Jingtian News[geo-blocked]
+https://stream1.freetv.fun/jing-tian-zi-xun-1.ctv
+#EXTINF:-1 tvg-name="Jingtian Movie" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211600121903_76.png" group-title="Movie",[BD]Jingtian Movie
+https://stream1.freetv.fun/jing-tian-dian-ying-4.ctv
+#EXTINF:-1 tvg-name="Jing Yang Cartoon" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/03/04/large/20220304215939266079_17.png" group-title="Children",[BD]Jing Yang Cartoon
+https://stream1.freetv.fun/jing-yang-qia-tong-3.ctv
+#EXTINF:-1 tvg-name="Jing Yang Drama" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224936326578_83.jpg" group-title="Movies",[BD]Jing Yang Drama
+https://stream1.freetv.fun/jing-yang-xi-ju-2.ctv
+#EXTINF:-1 tvg-name="Extraordinary Business" tvg-id="" tvg-country="Taiwan" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514163601233713_40.jpg" group-title="News",[BD]Extraordinary Business
+https://stream1.freetv.fun/fei-fan-shang-ye-1.ctv
