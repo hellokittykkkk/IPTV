@@ -1,57 +1,109 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-
 #EXTVLCOPT:network-caching=500000
 
+#EXTINF:-1 tvg-name="Harbin Entertainment" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024220527879025_88.jpg" group-title="Variety Show",[VGA]Harbin Entertainment
+https://stream1.freetv.fun/ha-er-bin-yu-le-1.m3u8
+#EXTINF:-1 tvg-name="Harbin Entertainment" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024220527879025_88.jpg" group-title="Variety Show",[VGA]Harbin Entertainment
+https://stream1.freetv.fun/ha-er-bin-yu-le-2.m3u8
+#EXTINF:-1 tvg-name="Harbin Entertainment" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024220527879025_88.jpg" group-title="Variety Show",[VGA]Harbin Entertainment
+https://stream1.freetv.fun/ha-er-bin-yu-le-3.m3u8
+#EXTINF:-1 tvg-name="Harbin Film and Television" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_44.jpg" group-title="Movie",[VGA]Harbin Film and Television[geo-blocked]
+https://stream1.freetv.fun/ha-er-bin-ying-shi-8.m3u8
+#EXTINF:-1 tvg-name="Harbin Film and Television" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_44.jpg" group-title="Movie",[VGA]Harbin Film and Television
+https://stream1.freetv.fun/ha-er-bin-ying-shi-6.m3u8
+#EXTINF:-1 tvg-name="Harbin Film and Television" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_44.jpg" group-title="Movie",[VGA]Harbin Film and Television
+https://stream1.freetv.fun/ha-er-bin-ying-shi-2.m3u8
+#EXTINF:-1 tvg-name="Harbin Film and Television" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_44.jpg" group-title="Movie",[VGA]Harbin Film and Television
+https://stream1.freetv.fun/ha-er-bin-ying-shi-4.m3u8
+#EXTINF:-1 tvg-name="Harbin Film and Television" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_44.jpg" group-title="Movie",[VGA]Harbin Film and Television
+https://stream1.freetv.fun/ha-er-bin-ying-shi-1.m3u8
+#EXTINF:-1 tvg-name="Harbin News Comprehensive" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_48.jpg" group-title="Other",[VGA]Harbin News Comprehensive
+https://stream1.freetv.fun/ha-er-bin-xin-wen-zong-he-5.m3u8
+#EXTINF:-1 tvg-name="Harbin News Comprehensive" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_48.jpg" group-title="Other",[VGA]Harbin News Comprehensive
+https://stream1.freetv.fun/ha-er-bin-xin-wen-zong-he-3.m3u8
+#EXTINF:-1 tvg-name="Harbin News Comprehensive" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024220235986162_73.jpg" group-title="News",[VGA]Harbin News
+https://stream1.freetv.fun/ha-er-bin-xin-wen-3.m3u8
+#EXTINF:-1 tvg-name="Harbin Life" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_46.jpg" group-title="Other",[VGA]Harbin Life[geo-blocked]
+https://stream1.freetv.fun/ha-er-bin-sheng-huo-6.m3u8
+#EXTINF:-1 tvg-name="Harbin Life" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_46.jpg" group-title="Other",[VGA]Harbin Life
+https://stream1.freetv.fun/ha-er-bin-sheng-huo-5.m3u8
+#EXTINF:-1 tvg-name="Harbin Life" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_46.jpg" group-title="Other",[VGA]Harbin Life
+https://stream1.freetv.fun/ha-er-bin-sheng-huo-8.m3u8
+#EXTINF:-1 tvg-name="Harbin Life" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/2_46.jpg" group-title="Other",[VGA]Harbin Life
+https://stream1.freetv.fun/ha-er-bin-sheng-huo-4.m3u8
+#EXTINF:-1 tvg-name="Harbin City Information" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024220307974062_61.jpg" group-title="General",[VGA]Heilongjiang Harbin City Information
+https://stream1.freetv.fun/hei-long-jiang-ha-er-bin-du-shi-zi-xun-1.m3u8
+#EXTINF:-1 tvg-name="Harbin City News" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024220307974062_61.jpg" group-title="General",[VGA]Harbin News
+https://stream1.freetv.fun/ha-er-bin-zi-xun-1.m3u8
 
-#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Others",[BD]Lingnan Opera
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon[geo-blocked]
+https://stream1.freetv.fun/jia-jia-qia-tong-9.ctv
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon
+https://stream1.freetv.fun/jia-jia-qia-tong-21.ctv
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon[geo-blocked]
+https://stream1.freetv.fun/jia-jia-qia-tong-10.ctv
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon
+https://stream1.freetv.fun/jia-jia-qia-tong-27.ctv
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon
+https://stream1.freetv.fun/jia-jia-qia-tong-16.ctv
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon
+https://stream1.freetv.fun/jia-jia-qia-tong-34.ctv
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon
+https://stream1.freetv.fun/jia-jia-qia-tong-19.ctv
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon[geo-blocked]
+https://stream1.freetv.fun/jia-jia-qia-tong-29.ctv
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon[geo-blocked]
+https://stream1.freetv.fun/jia-jia-qia-tong-7.ctv
+#EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jiajia Cartoon
+https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv
+
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV[geo-blocked]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-11.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV[geo-blocked]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-12.m3u8
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV
+https://stream1.freetv.fun/da-wan-qu-wei-shi-2.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV
+https://stream1.freetv.fun/da-wan-qu-wei-shi-22.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV[geo-blocked]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-21.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV
+https://stream1.freetv.fun/da-wan-qu-wei-shi-19.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV[geo-blocked]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-3.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[VGA]Greater Bay Area TV*wj
+https://stream1.freetv.fun/da-wan-qu-wei-shi---wj-1.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[HD]Greater Bay Area TV
+https://stream1.freetv.fun/da-wan-qu-wei-shi-10.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV[geo-blocked]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-7.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV[geo-blocked]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-25.m3u8
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV[geo-blocked]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-23.m3u8
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV[geo-blocked]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-26.m3u8
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV
+https://stream1.freetv.fun/da-wan-qu-wei-shi-16.ctv
+#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="General",[BD]Greater Bay Area TV[geo-blocked]
+https://stream1.freetv.fun/da-wan-qu-wei-shi-9.m3u8
+
+#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Other",[BD]Lingnan Opera
 https://stream1.freetv.fun/ling-nan-xi-qu-6.ctv
 #EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Other",[BD]Lingnan Opera[geo-blocked]
 https://stream1.freetv.fun/ling-nan-xi-qu-5.ctv
-#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Others",[BD]Lingnan Opera
+#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Other",[BD]Lingnan Opera
 https://stream1.freetv.fun/ling-nan-xi-qu-8.ctv
 #EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Other",[BD]Lingnan Opera[geo-blocked]
 https://stream1.freetv.fun/ling-nan-xi-qu-7.ctv
-#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Others",[BD]Lingnan Opera
+#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Other",[BD]Lingnan Opera
 https://stream1.freetv.fun/ling-nan-xi-qu-10.ctv
-#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Others",[BD]Lingnan Opera
+#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Other",[BD]Lingnan Opera
 https://stream1.freetv.fun/ling-nan-xi-qu-14.ctv
-#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Others",[BD]Lingnan Opera
+#EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Other",[BD]Lingnan Opera
 https://stream1.freetv.fun/ling-nan-xi-qu-12.ctv
 #EXTINF:-1 tvg-name="Lingnan Opera" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png" group-title="Other",[BD]Lingnan Opera[geo-blocked]
 https://stream1.freetv.fun/ling-nan-xi-qu-3.ctv
-
-
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV[geo-blocked]
-https://stream1.freetv.fun/da-wan-qu-wei-shi-11.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV[geo-blocked]
-https://stream1.freetv.fun/da-wan-qu-wei-shi-12.m3u8
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV
-https://stream1.freetv.fun/da-wan-qu-wei-shi-2.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV
-https://stream1.freetv.fun/da-wan-qu-wei-shi-22.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV[geo-blocked]
-https://stream1.freetv.fun/da-wan-qu-wei-shi-21.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV
-https://stream1.freetv.fun/da-wan-qu-wei-shi-19.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV[geo-blocked]
-https://stream1.freetv.fun/da-wan-qu-wei-shi-3.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area Satellite TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[VGA]Greater Bay Area Satellite TV*wj
-https://stream1.freetv.fun/da-wan-qu-wei-shi---wj-1.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[HD]Greater Bay Area TV
-https://stream1.freetv.fun/da-wan-qu-wei-shi-10.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV[geo-blocked]
-https://stream1.freetv.fun/da-wan-qu-wei-shi-7.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV[geo-blocked]
-https://stream1.freetv.fun/da-wan-qu-wei-shi-25.m3u8
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV[geo-blocked]
-https://stream1.freetv.fun/da-wan-qu-wei-shi-23.m3u8
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV[geo-blocked]
-https://stream1.freetv.fun/da-wan-qu-wei-shi-26.m3u8
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV
-https://stream1.freetv.fun/da-wan-qu-wei-shi-16.ctv
-#EXTINF:-1 tvg-name="Greater Bay Area TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="Comprehensive",[BD]Greater Bay Area TV[geo-blocked]
-https://stream1.freetv.fun/da-wan-qu-wei-shi-9.m3u8
-
 
 #EXTINF:-1 tvg-name="Guangzhou News" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135410645686_37.png" group-title="News",[HD]Guangzhou News
 https://stream1.freetv.fun/yan-zhou-xin-wen-8.m3u8
@@ -95,21 +147,21 @@ https://stream1.freetv.fun/yan-zhou-fa-zhi-2.m3u8
 https://stream1.freetv.fun/yan-zhou-fa-zhi-8.m3u8
 #EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="Comprehensive",[HD]Guangzhou Rule of Law
 https://stream1.freetv.fun/yan-zhou-fa-zhi-17.ctv
-#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="Comprehensive",[BD]Guangzhou Rule of Law
+#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="General",[BD]Guangzhou Rule of Law
 https://stream1.freetv.fun/yan-zhou-fa-zhi-12.ctv
 #EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="Comprehensive",[HD]Guangzhou Rule of Law
 https://stream1.freetv.fun/yan-zhou-fa-zhi-1.m3u8
-#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="Comprehensive",[BD]Guangzhou Rule of Law
+#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="General",[BD]Guangzhou Rule of Law
 https://stream1.freetv.fun/yan-zhou-fa-zhi-9.ctv
-#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="Comprehensive",[BD]Guangzhou Rule of Law
+#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="General",[BD]Guangzhou Rule of Law
 https://stream1.freetv.fun/yan-zhou-fa-zhi-15.ctv
 #EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="Comprehensive",[HD]Guangzhou Rule of Law
 https://stream1.freetv.fun/yan-zhou-fa-zhi-11.m3u8
-#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="Comprehensive",[BD]Guangzhou Rule of Law[geo-blocked]
+#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="General",[BD]Guangzhou Rule of Law[geo-blocked]
 https://stream1.freetv.fun/yan-zhou-fa-zhi-6.ctv
-#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="Comprehensive",[BD]Guangzhou Rule of Law
+#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="General",[BD]Guangzhou Rule of Law
 https://stream1.freetv.fun/yan-zhou-fa-zhi-14.ctv
-#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="Comprehensive",[BD]Guangzhou Rule of Law[geo-blocked]
+#EXTINF:-1 tvg-name="Guangzhou Rule of Law" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135836291906_50.png" group-title="General",[BD]Guangzhou Rule of Law[geo-blocked]
 https://stream1.freetv.fun/yan-zhou-fa-zhi-4.ctv
 #EXTINF:-1 tvg-name="Guangzhou Competition" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135340570397_23.png" group-title="Sports",[BD]Guangzhou Competition[geo-blocked]
 https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
@@ -182,7 +234,6 @@ https://stream1.freetv.fun/yan-zhou-zong-he-23.ctv
 #EXTINF:-1 tvg-name="Guangzhou Comprehensive Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721135649475476_85.png" group-title="Comprehensive",[BD]Guangzhou Comprehensive
 https://stream1.freetv.fun/yan-zhou-zong-he-21.ctv
 
-
 #EXTINF:-1 tvg-name="Guangdong Children" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721133553685102_74.png" group-title="Children",[BD]Guangdong Children[geo-blocked]
 https://stream1.freetv.fun/yan-dong-shao-er-15.ctv
 #EXTINF:-1 tvg-name="Guangdong Children" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721133553685102_74.png" group-title="Children",[BD]Guangdong Children[geo-blocked]
@@ -245,39 +296,39 @@ https://stream1.freetv.fun/yan-dong-xin-wen-14.ctv
 https://stream1.freetv.fun/yan-dong-xin-wen-21.ctv
 #EXTINF:-1 tvg-name="Guangdong News" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131740840005_79.png" group-title="News",[BD]Guangdong News[geo-blocked]
 https://stream1.freetv.fun/yan-dong-xin-wen-23.m3u8
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood
 https://stream1.freetv.fun/yan-dong-min-sheng-26.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 https://stream1.freetv.fun/yan-dong-min-sheng-27.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 https://stream1.freetv.fun/yan-dong-min-sheng-30.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood
 https://stream1.freetv.fun/yan-dong-min-sheng-22.m3u8
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 https://stream1.freetv.fun/yan-dong-min-sheng-20.m3u8
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 https://stream1.freetv.fun/yan-dong-min-sheng-10.m3u8
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 rtmp://116.63.53.136/live/gdms
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 https://stream1.freetv.fun/yan-dong-min-sheng-28.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood
 https://stream1.freetv.fun/yan-dong-min-sheng-21.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood
 https://stream1.freetv.fun/yan-dong-min-sheng-19.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood
 https://stream1.freetv.fun/yan-dong-min-sheng-16.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 https://stream1.freetv.fun/yan-dong-min-sheng-17.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 https://stream1.freetv.fun/yan-dong-min-sheng-13.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130544678105_94.png" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 https://stream1.freetv.fun/yan-dong-min-sheng-24.ctv
-#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/03/13/large/20230313162507210771_64.jpeg" group-title="Comprehensive",[BD]Guangdong People's Livelihood[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong People's Livelihood" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/03/13/large/20230313162507210771_64.jpeg" group-title="General",[BD]Guangdong People's Livelihood[geo-blocked]
 https://stream1.freetv.fun/yan-dong-min-sheng-11.ctv
-#EXTINF:-1 tvg-name="Guangdong Pearl River" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060916282738_90.png" group-title="Comprehensive",[BD]Guangdong Pearl River
+#EXTINF:-1 tvg-name="Guangdong Pearl River" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060916282738_90.png" group-title="General",[BD]Guangdong Pearl River
 https://stream1.freetv.fun/yan-dong-zhu-jiang-31.m3u8
-#EXTINF:-1 tvg-name="Guangdong Pearl River" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060916282738_90.png" group-title="Comprehensive",[BD]Guangdong Pearl River[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong Pearl River" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060916282738_90.png" group-title="General",[BD]Guangdong Pearl River[geo-blocked]
 https://stream1.freetv.fun/yan-dong-zhu-jiang-21.ctv
 #EXTINF:-1 tvg-name="Guangdong Pearl River HD" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204144739284792_38.png" group-title="Comprehensive",[BD]Guangdong Pearl River[geo-blocked]
 https://stream1.freetv.fun/yan-dong-zhu-jiang-25.m3u8
@@ -311,22 +362,21 @@ https://stream1.freetv.fun/yan-dong-zhu-jiang-2.ctv
 https://stream1.freetv.fun/yan-dong-zhu-jiang-24.ctv
 #EXTINF:-1 tvg-name="Guangdong Pearl River HD" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204144739284792_38.png" group-title="Comprehensive",[BD]Guangdong Pearl River[geo-blocked]
 https://stream1.freetv.fun/yan-dong-zhu-jiang-30.m3u8
-
-#EXTINF:-1 tvg-name="Guangdong Economy" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224412616123_60.png" group-title="Comprehensive",[BD]Guangdong Economy[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong Economy" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224412616123_60.png" group-title="General",[BD]Guangdong Economy[geo-blocked]
 https://stream1.freetv.fun/yan-dong-jing-ji-1.ctv
-#EXTINF:-1 tvg-name="Guangdong Economics, Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="Comprehensive",[BD]Guangdong Economics, Science and Education[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong Economy and Science & Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="General",[BD]Guangdong Economy and Science & Education[geo-blocked]
 https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-3.ctv
-#EXTINF:-1 tvg-name="Guangdong Economics, Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="Comprehensive",[BD]Guangdong Economics, Science and Education
+#EXTINF:-1 tvg-name="Guangdong Economic Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="General",[BD]Guangdong Economic Science and Education
 https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-5.ctv
-#EXTINF:-1 tvg-name="Guangdong Economics, Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="Comprehensive",[BD]Guangdong Economics, Science and Education
+#EXTINF:-1 tvg-name="Guangdong Economic Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="General",[BD]Guangdong Economic Science and Education
 https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-7.ctv
-#EXTINF:-1 tvg-name="Guangdong Economics, Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="Comprehensive",[BD]Guangdong Economics, Science and Education
+#EXTINF:-1 tvg-name="Guangdong Economic Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="General",[BD]Guangdong Economic Science and Education
 https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-12.ctv
-#EXTINF:-1 tvg-name="Guangdong Economics, Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="Comprehensive",[BD]Guangdong Economics, Science and Education
+#EXTINF:-1 tvg-name="Guangdong Economic Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="General",[BD]Guangdong Economic Science and Education
 https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-6.ctv
-#EXTINF:-1 tvg-name="Guangdong Economics, Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="Comprehensive",[BD]Guangdong Economics, Science and Education[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong Economy and Science & Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="General",[BD]Guangdong Economy and Science & Education[geo-blocked]
 https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-9.ctv
-#EXTINF:-1 tvg-name="Guangdong Economics, Science and Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="Comprehensive",[BD]Guangdong Economics, Science and Education[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong Economy and Science & Education" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111224501741507_16.png" group-title="General",[BD]Guangdong Economy and Science & Education[geo-blocked]
 https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-2.ctv
 #EXTINF:-1 tvg-name="Guangdong Variety Show 4K" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719064646595865_81.jpg" group-title="Variety Show",[BD]Guangdong Variety Show
 https://stream1.freetv.fun/yan-dong-zong-yi-4.ctv
@@ -342,61 +392,59 @@ https://stream1.freetv.fun/yan-dong-zong-yi-6.ctv
 https://stream1.freetv.fun/yan-dong-zong-yi-7.ctv
 #EXTINF:-1 tvg-name="Guangdong Variety Show 4K" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719064646595865_81.jpg" group-title="Variety Show",[BD]Guangdong Variety Show[geo-blocked]
 https://stream1.freetv.fun/yan-dong-zong-yi-5.ctv
-
-
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-98.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-32.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-88.m3u8
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-20.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-67.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-54.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-10.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-23.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[HD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[HD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-68.m3u8
-#EXTINF:-1 tvg-name="Guangdong Satellite TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[SD]Guangdong Satellite TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[SD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-81.m3u8
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-7.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-92.m3u8
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-65.m3u8
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[ipv6]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[ipv6]
 https://stream1.freetv.fun/ipv6-yan-dong-wei-shi-46.m3u8
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-33.m3u8
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-93.m3u8
-#EXTINF:-1 tvg-name="Guangdong Satellite TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[SD]Guangdong Satellite TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[SD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-44.m3u8
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-85.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-64.m3u8
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-78.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-84.ctv
-#EXTINF:-1 tvg-name="Guangdong Satellite TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[SD]Guangdong Satellite TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[SD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-40.ctv
-#EXTINF:-1 tvg-name="Guangdong Satellite TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong Satellite TV HD[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General", [BD]Guangdong TV HD [geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-5.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[HD]Guangdong TV*wj
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[HD]Guangdong TV*wj
 https://stream1.freetv.fun/guang-dong-wei-shi---wj-1.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV[geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-72.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="Comprehensive",[BD]Guangdong TV
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="378850" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="General",[BD]Guangdong TV
 https://stream1.freetv.fun/yan-dong-wei-shi-11.ctv
-#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="Comprehensive",[BD]Guangdong TV HD[geo-blocked]
+#EXTINF:-1 tvg-name="Guangdong TV" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226204115695252_96.png" group-title="General", [BD]Guangdong TV HD [geo-blocked]
 https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-2.ctv
 #EXTINF:-1 tvg-name="Guangdong Sports" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png" group-title="Sports",[BD]Guangdong Sports
 https://stream1.freetv.fun/yan-dong-ti-yu-37.ctv
@@ -419,54 +467,85 @@ https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv
 #EXTINF:-1 tvg-name="Guangdong Sports HD" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png" group-title="Sports",[BD]Guangdong Sports
 https://stream1.freetv.fun/yan-dong-ti-yu-20.ctv
 
+#EXTINF:-1 tvg-name="Guangxi International" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527160856596479_90.jpg" group-title="Other",[BD]Guangxi International
+https://stream1.freetv.fun/yan-xi-guo-ji-3.m3u8
+#EXTINF:-1 tvg-name="Guangxi International" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527160856596479_90.jpg" group-title="Other",[BD]Guangxi International
+https://stream1.freetv.fun/yan-xi-guo-ji-4.m3u8
+#EXTINF:-1 tvg-name="Guangxi International" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527160856596479_90.jpg" group-title="Other",[BD]Guangxi International
+https://stream1.freetv.fun/yan-xi-guo-ji-6.m3u8
+#EXTINF:-1 tvg-name="Guangxi Film and Television" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527161000730664_82.jpg" group-title="Movie",[BD]Guangxi Film and Television[geo-blocked]
+https://stream1.freetv.fun/yan-xi-ying-shi-2.ctv
+#EXTINF:-1 tvg-name="Guangxi News" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2021/10/07/large/20211007153113076586_45.png" group-title="News",[BD]Guangxi News[geo-blocked]
+https://stream1.freetv.fun/yan-xi-xin-wen-10.ctv
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General",[SD]Guangxi TV
+https://stream1.freetv.fun/yan-xi-wei-shi-64.m3u8
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General",[BD]Guangxi TV[ipv6]
+https://stream1.freetv.fun/ipv6-yan-xi-wei-shi-16.m3u8
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General",[SD]Guangxi TV[geo-blocked]
+https://stream1.freetv.fun/yan-xi-wei-shi-32.ctv
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General",[BD]Guangxi TV
+https://stream1.freetv.fun/yan-xi-wei-shi-50.ctv
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General",[BD]Guangxi TV[geo-blocked]
+https://stream1.freetv.fun/yan-xi-wei-shi-43.ctv
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General",[BD]Guangxi TV
+https://stream1.freetv.fun/yan-xi-wei-shi-74.m3u8
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General",[BD]Guangxi TV
+https://stream1.freetv.fun/yan-xi-wei-shi-14.m3u8
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General",[BD]Guangxi TV
+https://stream1.freetv.fun/yan-xi-wei-shi-15.m3u8
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General", [BD]Guangxi TV HD [geo-blocked]
+https://stream1.freetv.fun/yan-xi-wei-shi-gao-qing-2.ctv
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-id="378860" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="General",[HD]Guangxi TV
+https://stream1.freetv.fun/yan-xi-wei-shi-83.m3u8
 
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-54.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-59.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-75.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV[geo-blocked]
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV[geo-blocked]
 https://stream1.freetv.fun/shen-zhen-wei-shi-30.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV[geo-blocked]
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV[geo-blocked]
 https://stream1.freetv.fun/shen-zhen-wei-shi-98.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-97.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-58.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV[geo-blocked]
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV[geo-blocked]
 https://stream1.freetv.fun/shen-zhen-wei-shi-79.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-71.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-24.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[HD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[HD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-61.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-48.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV[ipv6]
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV[ipv6]
 https://stream1.freetv.fun/ipv6-shen-zhen-wei-shi-37.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg -country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg -country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-90.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-7.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-74.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-64.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV HD[geo-blocked]
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General", [BD]Shenzhen TV HD [geo-blocked]
 https://stream1.freetv.fun/shen-zhen-wei-shi-gao-qing-5.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-66.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-46.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[SD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[SD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-12.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV[geo-blocked]
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV[geo-blocked]
 https://stream1.freetv.fun/shen-zhen-wei-shi-45.m3u8
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-93.ctv
-#EXTINF:-1 tvg-name="Shenzhen Satellite TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="Comprehensive",[BD]Shenzhen Satellite TV
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-id="378851" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="General",[BD]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-wei-shi-38.ctv
 #EXTINF:-1 tvg-name="Shenzhen Metropolis" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519234446820820_32.jpg" group-title="Comprehensive",[BD]Shenzhen Metropolis
 https://stream1.freetv.fun/shen-zhen-du-shi-5.ctv
@@ -483,26 +562,36 @@ https://stream1.freetv.fun/shen-zhen-du-shi-8.ctv
 #EXTINF:-1 tvg-name="Shenzhen TV Series" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519234321215989_39.jpg" group-title="Movie",[VGA]Shenzhen TV
 https://stream1.freetv.fun/shen-zhen-dian-shi-1.m3u8
 
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[BD]Movie
+https://stream1.freetv.fun/dian-ying-85.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[HD]Movie[geo-blocked]
+https://stream1.freetv.fun/dian-ying-69.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[BD]Movie[geo-blocked]
+https://stream1.freetv.fun/dian-ying-107.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[BD]Movie
+https://stream1.freetv.fun/dian-ying-92.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[HD]Movie
+https://stream1.freetv.fun/dian-ying-97.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[BD]Movie
+https://stream1.freetv.fun/dian-ying-6.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[SD]Movie
+https://stream1.freetv.fun/dian-ying-28.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[HD]Movie
+https://stream1.freetv.fun/dian-ying-52.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[BD]Movie[geo-blocked]
+https://stream1.freetv.fun/dian-ying-84.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[HD]Movie
+https://stream1.freetv.fun/dian-ying-30.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[HD]Movie[geo-blocked]
+https://stream1.freetv.fun/dian-ying-44.ctv
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[BD]Movie
+https://stream1.freetv.fun/dian-ying-40.m3u8
+#EXTINF:-1 tvg-name="Movie Channel" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/" group-title="Test",[SD]Movie
+https://stream1.freetv.fun/dian-ying-75.m3u8
 
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jia Jia Cartoon[geo-blocked]
-https://stream1.freetv.fun/jia-jia-qia-tong-9.ctv
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD] Jia Jia Cartoon
-https://stream1.freetv.fun/jia-jia-qia-tong-21.ctv
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jia Jia Cartoon[geo-blocked]
-https://stream1.freetv.fun/jia-jia-qia-tong-10.ctv
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD] Jia Jia Cartoon
-https://stream1.freetv.fun/jia-jia-qia-tong-27.ctv
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD] Jia Jia Cartoon
-https://stream1.freetv.fun/jia-jia-qia-tong-16.ctv
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD] Jia Jia Cartoon
-https://stream1.freetv.fun/jia-jia-qia-tong-34.ctv
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD] Jia Jia Cartoon
-https://stream1.freetv.fun/jia-jia-qia-tong-19.ctv
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jia Jia Cartoon[geo-blocked]
-https://stream1.freetv.fun/jia-jia-qia-tong-29.ctv
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD]Jia Jia Cartoon[geo-blocked]
-https://stream1.freetv.fun/jia-jia-qia-tong-7.ctv
-#EXTINF:-1 tvg-name="Jia Jia Cartoon" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png" group-title="Children",[BD] Jia Jia Cartoon
-https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv
-
-
+#EXTINF:-1 tvg-name="Shantou News Summary" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/img/logo/3_53.jpg" group-title="News",[BD]News Summary
+https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
+#EXTINF:-1 tvg-name="Shantou Economy and Life" tvg-id="" tvg-country="Mainland China" tvg-language="Mandarin" tvg-logo="https://epg.pw/media/images/channel/2023/10/07/large/20231007180745847184_87.jpg" group-title="General",[BD]-Shantou Life[geo-blocked]
+https://stream1.freetv.fun/shan-tou-sheng-huo-1.m3u8
+#EXTINF:-1 tvg-name="Shantou Comprehensive" tvg-id="" tvg-country="Mainland China" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/11/01/large/20231101223003485086_27.jpg" group-title="Comprehensive",[BD]-Shantou Comprehensive
+https://stream1.freetv.fun/shan-tou-zong-he-14.m3u8
